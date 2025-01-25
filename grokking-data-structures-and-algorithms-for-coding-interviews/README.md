@@ -1,0 +1,13 @@
+# Design Gurus
+
+## Overview
+This repository contains my submissions for the topics of the [Grokking Data Structures & Algorithms for Coding Interviews](https://www.designgurus.io/course/grokking-data-structures-for-coding-interviews) course,
+with entries listed as per the training plan:
+
+# Array
+| Question                                                                                                                                                                  | Submission                                                                                                                                                              |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [Running Sum Of One-Dimensional Array](https://www.designgurus.io/course-play/grokking-data-structures-for-coding-interviews/doc/problem-1-running-sum-of-1d-array-easy)  | [Java](https://github.com/shumarb/designgurus/blob/main/grokking-data-structures-and-algorithms-for-coding-interviews/submissions/RunningSumOfOneDimensionalArray.java) |
+| [Contains Duplicate](https://www.designgurus.io/course-play/grokking-data-structures-for-coding-interviews/doc/problem-2-contains-duplicate-easy)                         | [Java](https://github.com/shumarb/designgurus/blob/main/grokking-data-structures-and-algorithms-for-coding-interviews/submissions/ContainsDuplicate.java)               |
+| [Left and Right Sum Differences](https://www.designgurus.io/course-play/grokking-data-structures-for-coding-interviews/doc/problem-3-left-and-right-sum-differences-easy) | [Java](https://github.com/shumarb/designgurus/blob/main/grokking-data-structures-and-algorithms-for-coding-interviews/submissions/LeftAndRightSumDifferences.java)      |
+| [Find the Highest Altitude](https://www.designgurus.io/course-play/grokking-data-structures-for-coding-interviews/doc/problem-4-find-the-highest-altitude-easy)           | [Java](https://github.com/shumarb/designgurus/blob/main/grokking-data-structures-and-algorithms-for-coding-interviews/submissions/FindTheHighestAltitude.java)          |
