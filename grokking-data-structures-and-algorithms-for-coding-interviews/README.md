@@ -1,8 +1,7 @@
 # Design Gurus
 
 ## Overview
-This repository contains my submissions for the topics of the [Grokking Data Structures & Algorithms for Coding Interviews](https://www.designgurus.io/course/grokking-data-structures-for-coding-interviews) course,
-with entries listed as per the training plan:
+This repository contains my submissions for the topics of the [Grokking Data Structures & Algorithms for Coding Interviews](https://www.designgurus.io/course/grokking-data-structures-for-coding-interviews) course.
 
 ### Array
 | Question                                                                                                                                                                  | Submission                                                                                                                                                              |
