@@ -6,15 +6,10 @@ The problems that I solved in the course are also available in my [LeetCode](htt
 
 (*Note*: Performance is the percentage of submissions that my code outperforms in terms of runtime.)
 
-### Array
-| Question                                                                                                    | Submission                                                                                      | Runtime | Rank   |
-|-------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|---------|--------|
-| [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/description/)               | [Java](https://github.com/shumarb/leetcode/blob/main/easy/java/RunningSumOf1dArray.java)        | 0ms     | 100%   |
-| [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description)                          | [Java](https://github.com/shumarb/leetcode/blob/main/easy/java/ContainsDuplicate.java)          | 10ms    | 88.34% |
-| [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/easy/java/LeftAndRightSumDifferences.java) | 2ms     | 98.18% |
-| [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/description)            | [Java](https://github.com/shumarb/leetcode/blob/main/easy/java/FindTheHighestAltitude.java)     | 0ms     | 100%   |
-
-### Matrix
-| Question                                                                                      | Submission                                                                                 | Runtime | Rank |
-|-----------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|---------|------|
-| [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/easy/java/RichestCustomerWealth.java) | 0ms     | 100% |
+| Question                                                                                                    | Submission                                                                                      | Runtime | Rank   | Topic  |
+|-------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|---------|--------|--------|
+| [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/description/)               | [Java](https://github.com/shumarb/leetcode/blob/main/easy/java/RunningSumOf1dArray.java)        | 0ms     | 100%   | Array  |
+| [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description)                          | [Java](https://github.com/shumarb/leetcode/blob/main/easy/java/ContainsDuplicate.java)          | 10ms    | 88.34% | Array  |
+| [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/easy/java/LeftAndRightSumDifferences.java) | 2ms     | 98.18% | Array  |
+| [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/description)            | [Java](https://github.com/shumarb/leetcode/blob/main/easy/java/FindTheHighestAltitude.java)     | 0ms     | 100%   | Array  |
+| [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/description/)               | [Java](https://github.com/shumarb/leetcode/blob/main/easy/java/RichestCustomerWealth.java)      | 0ms     | 100%   | Matrix |
