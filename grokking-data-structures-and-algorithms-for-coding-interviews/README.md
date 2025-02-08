@@ -1,7 +1,8 @@
 # Grokking Data Structures & Algorithms for Coding Interviews
 
 ## Overview
-This repository contains my submissions for the topics of the [Grokking Data Structures & Algorithms for Coding Interviews](https://www.designgurus.io/course/grokking-data-structures-for-coding-interviews) course.
+This repository contains my submissions for the topics of the [Grokking Data Structures & Algorithms for Coding Interviews](https://www.designgurus.io/course/grokking-data-structures-for-coding-interviews) course,
+organised according to the sequence of questions in the training plan.
 
 The problems that I solved in the course are also available in my [LeetCode](https://github.com/shumarb/leetcode) repository.
 
@@ -23,4 +24,4 @@ The problems that I solved in the course are also available in my [LeetCode](htt
 | [Simplify Path](https://leetcode.com/problems/simplify-path/description/)                                                                                               | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/java/SimplifyPath.java)                                                                          | 5ms     | 51.87% | Stack  |
 | [Sorting a Stack](https://www.designgurus.io/course-play/grokking-data-structures-for-coding-interviews/doc/problem-5-sorting-a-stack-easy)                             | [Java](https://github.com/shumarb/designgurus/tree/main/grokking-data-structures-and-algorithms-for-coding-interviews/submissions/SortingAStack.java)             | -       | -      | Stack  |
 | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/description/)                                         | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/java/RemoveAllAdjacentDuplicatesInString.java)                                                   | 36ms    | 48.71% | Stack  |
-| [Removing All Stars From A String](https://leetcode.com/problems/removing-stars-from-a-string/description/)                                                             | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/java/RemovingStarsFromAString.java)                                                              | 109ms   | 23.54% | Stack  |
+| [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/description/)                                                                 | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/java/RemovingStarsFromAString.java)                                                              | 109ms   | 23.54% | Stack  |
