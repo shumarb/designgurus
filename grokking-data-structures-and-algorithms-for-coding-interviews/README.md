@@ -5,7 +5,7 @@ This folder contains my submissions for the [Grokking Data Structures & Algorith
 organised by the question sequence in the training plan.
 Some of my submissions are sourced from my [LeetCode](https://github.com/shumarb/leetcode) repository.
 
-(*Note*: Performance is the percentage of submissions that my code outperforms in terms of runtime.)
+(*Note*: Rank indicates the percentage of submissions that my code outperforms in terms of runtime.)
 
 | Question                                                                                                                                                                | Submission                                                                                                                                                        | Runtime | Rank   | Topic   |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------|--------|---------|
