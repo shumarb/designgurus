@@ -8,7 +8,7 @@ public class ReverseAQueue {
 
     public Queue<Integer> reverseQueue(Queue<Integer> q) {
         Stack<Integer> stack = new Stack<>();
-        boolean isTest = true;
+        boolean isTest = false;
 
         if (isTest) {
             System.out.println("before populate stack | q: " + q + ", stack: " + stack);
