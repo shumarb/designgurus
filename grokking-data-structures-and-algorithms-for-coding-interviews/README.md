@@ -2,8 +2,7 @@
 
 ## Overview
 This folder contains my submissions for the [Grokking Data Structures & Algorithms for Coding Interviews](https://www.designgurus.io/course/grokking-data-structures-for-coding-interviews) course,
-organised according to the sequence of questions in the training plan.
-
+organised by the question sequence in the training plan.
 Some of my submissions are sourced from my [LeetCode](https://github.com/shumarb/leetcode) repository.
 
 (*Note*: Performance is the percentage of submissions that my code outperforms in terms of runtime.)
