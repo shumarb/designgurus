@@ -8,7 +8,7 @@ class ZigzagIterator {
 
     public Solution(List<Integer> v1, List<Integer> v2) {
         queue1 = new LinkedList<>();
-        queue2= new LinkedList<>();
+        queue2 = new LinkedList<>();
         populate(v1, queue1);
         populate(v2, queue2);
     }
