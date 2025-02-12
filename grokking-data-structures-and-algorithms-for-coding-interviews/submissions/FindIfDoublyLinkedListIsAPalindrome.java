@@ -7,8 +7,8 @@
 // }
 
 class FindIfDoublyLinkedListIsAPalindrome {
-    // 1. Edge case: no elements in list or list with only 1 element
-        if (head == null || head.next == null) {
+    // 1. Edge cases: no elements in list or list with only 1 element
+    if (head == null || head.next == null) {
         return true;
     }
         
