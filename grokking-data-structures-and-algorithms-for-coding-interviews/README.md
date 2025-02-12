@@ -8,19 +8,19 @@ Some of my submissions are sourced from my [LeetCode](https://github.com/shumarb
 (*Note*: Rank indicates the percentage of submissions that my code outperforms in terms of runtime.)
 
 ### Array
-| Question                                                                                                    | Submission                                                                                      | Runtime | Rank   |
-|-------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|---------|--------|
-| [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/description/)               | [Java](https://github.com/shumarb/leetcode/blob/main/easy/java/RunningSumOf1dArray.java)        | 0ms     | 100%   |
-| [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description)                          | [Java](https://github.com/shumarb/leetcode/blob/main/easy/java/ContainsDuplicate.java)          | 10ms    | 88.34% |
-| [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/easy/java/LeftAndRightSumDifferences.java) | 2ms     | 98.18% |
-| [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/description)            | [Java](https://github.com/shumarb/leetcode/blob/main/easy/java/FindTheHighestAltitude.java)     | 0ms     | 100%   |
+| Question                                                                                                    | Submission                                                                                             | Runtime | Rank   |
+|-------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|---------|--------|
+| [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/description/)               | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/java/RunningSumOf1dArray.java)        | 0ms     | 100%   |
+| [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description)                          | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/java/ContainsDuplicate.java)          | 10ms    | 88.34% |
+| [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/java/LeftAndRightSumDifferences.java) | 2ms     | 98.18% |
+| [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/description)            | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/java/FindTheHighestAltitude.java)     | 0ms     | 100%   |
 
 ### Matrix
-| Question                                                                                      | Submission                                                                                 | Runtime | Rank   |
-|-----------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|---------|--------|
-| [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/easy/java/RichestCustomerWealth.java) | 0ms     | 100%   |
-| [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/description/)         | [Java](https://github.com/shumarb/leetcode/blob/main/easy/java/MatrixDiagonalSum.java)     | 0ms     | 100%   |
-| [Row With Maximum Ones](https://leetcode.com/problems/row-with-maximum-ones//description/)    | [Java](https://github.com/shumarb/leetcode/blob/main/easy/java/RowWithMaximumOnes.java)    | 5ms     | 27.61% |
+| Question                                                                                      | Submission                                                                                        | Runtime | Rank   |
+|-----------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|---------|--------|
+| [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/java/RichestCustomerWealth.java) | 0ms     | 100%   |
+| [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/description/)         | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/java/MatrixDiagonalSum.java)     | 0ms     | 100%   |
+| [Row With Maximum Ones](https://leetcode.com/problems/row-with-maximum-ones//description/)    | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/java/RowWithMaximumOnes.java)    | 5ms     | 27.61% |
 
 ### Stack
 | Question                                                                                                                                                                | Submission                                                                                                                                                        | Runtime | Rank   |
