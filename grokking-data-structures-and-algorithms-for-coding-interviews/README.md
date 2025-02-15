@@ -55,6 +55,7 @@ Some of my submissions are sourced from my [LeetCode](https://github.com/shumarb
 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/)                                                                                                             | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/java/SwapNodesInPairs.java)                                                                                | 0ms     | 100% |
 
 ### Tree & Binary Search Tree
-| Question                                                                                                | Submission                                                                                           | Runtime | Rank |
-|---------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|---------|------|
-| [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/java/MaximumDepthOfBinaryTree.java) | 0ms     | 100% |
+| Question                                                                                                  | Submission                                                                                           | Runtime | Rank  |
+|-----------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|---------|-------|
+| [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)   | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/java/MaximumDepthOfBinaryTree.java) | 0ms     | 100%  |
+| [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/java/KthSmallestElementInABST.java) | 8ms     | 4.29% |
