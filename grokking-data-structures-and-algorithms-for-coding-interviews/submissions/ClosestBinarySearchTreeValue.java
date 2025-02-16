@@ -37,6 +37,5 @@ public class ClosestBinarySearchTreeValue {
             traverse(node.left, target);
         }
         traverse(node.right, target);
-
     }
 }
