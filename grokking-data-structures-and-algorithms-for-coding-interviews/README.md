@@ -89,7 +89,7 @@ Some of my submissions are sourced from my [LeetCode](https://github.com/shumarb
 | [Minimum Cost to Connect Sticks](https://www.designgurus.io/course-play/grokking-data-structures-for-coding-interviews/doc/minimum-cost-to-connect-sticksmedium) | [Java](https://github.com/shumarb/designgurus/tree/main/grokking-data-structures-and-algorithms-for-coding-interviews/submissions/MinimumCostToConnectSticks.java) | -       | -      |
 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/description/)                                                          | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/java/MedianFinder.java)                                                                           | 92ms    | 78.28% |
 
-### Heap
+### Graph
 | Question                                                                                                | Submission                                                                                          | Runtime | Rank   |
 |---------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|---------|--------|
 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/java/FindIfPathExistsInGraph.java) | 53ms    | 88.29% |
