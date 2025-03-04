@@ -95,3 +95,8 @@ Some of my submissions are sourced from my [LeetCode](https://github.com/shumarb
 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/description/)                                   | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/java/FindIfPathExistsInGraph.java)                | 53ms    | 88.29% |
 | [Number of Provinces](https://leetcode.com/problems/number-of-provinces/description/)                                                     | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/java/NumberOfProvinces.java)                      | 1ms     | 88.40% |
 | [Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/java/MinimumNumberOfVerticesToReachAllNodes.java) | 8ms     | 99.23% |
+
+### Trie
+| Question                                                                                              | Submission                                                                       | Runtime | Rank   |
+|-------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|---------|--------|
+| [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/java/Trie.java) | 33ms    | 85.89% | 
