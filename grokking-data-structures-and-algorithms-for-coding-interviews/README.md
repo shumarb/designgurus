@@ -100,3 +100,8 @@ Some of my submissions are sourced from my [LeetCode](https://github.com/shumarb
 | Question                                                                                              | Submission                                                                       | Runtime | Rank   |
 |-------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|---------|--------|
 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/java/Trie.java) | 33ms    | 85.89% | 
+
+### Searching
+| Question                                                                                                                                                    | Submission                                                                                                                  | Runtime | Rank   |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|---------|--------|
+| [Maximum Count of Positive Integer and Negative Integer](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/java/MaximumCountOfPositiveIntegerAndNegativeInteger.java) | 0ms     | 100%   |
