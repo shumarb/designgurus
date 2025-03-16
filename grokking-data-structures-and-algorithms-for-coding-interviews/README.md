@@ -97,9 +97,10 @@ Some of my submissions are sourced from my [LeetCode](https://github.com/shumarb
 | [Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/java/MinimumNumberOfVerticesToReachAllNodes.java) | 8ms     | 99.23% |
 
 ### Trie
-| Question                                                                                              | Submission                                                                       | Runtime | Rank   |
-|-------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|---------|--------|
-| [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/java/Trie.java) | 33ms    | 85.89% | 
+| Question                                                                                                                                          | Submission                                                                                                                                                  | Runtime | Rank   |
+|---------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|---------|--------|
+| [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/description/)                                             | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/java/Trie.java)                                                                            | 33ms    | 85.89% | 
+| [Index Pairs of a String](https://www.designgurus.io/course-play/grokking-data-structures-for-coding-interviews/doc/index-pairs-of-a-string-easy) | [Java](https://github.com/shumarb/designgurus/tree/main/grokking-data-structures-and-algorithms-for-coding-interviews/submissions/IndexPairsOfAString.java) | -       | -      |
 
 ### Searching
 | Question                                                                                                                                                    | Submission                                                                                                                  | Runtime | Rank   |
