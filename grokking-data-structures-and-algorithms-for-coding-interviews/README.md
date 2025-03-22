@@ -110,6 +110,7 @@ Some of my submissions are sourced from my [LeetCode](https://github.com/shumarb
 |---------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|---------|--------|
 | [Apple Redistribution into Boxes](https://leetcode.com/problems/apple-redistribution-into-boxes/description/)       | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/java/AppleRedistributionIntoBoxes.java)   | 1ms     | 100%   |
 | [Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/java/SortArrayByIncreasingFrequency.java) | 4ms     | 98.04% |
+| [Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string/description/)                       | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/java/SortVowelsInAString.java)            | 75ms    | 29.08% |
 
 ### Searching
 | Question                                                                                                                                                    | Submission                                                                                                                  | Runtime | Rank   |
