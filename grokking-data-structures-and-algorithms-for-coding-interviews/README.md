@@ -106,9 +106,10 @@ Some of my submissions are sourced from my [LeetCode](https://github.com/shumarb
 | [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/description/)               | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/java/DesignAddAndSearchWordsDataStructure.java)                                            | 162ms   | 95.96% | 
 
 ## Sorting
-| Question                                                                                                            | Submission                                                                                               | Runtime | Rank   |
-|---------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|---------|--------|
-| [Apple Redistribution into Boxes](https://leetcode.com/problems/apple-redistribution-into-boxes/description/)       | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/java/AppleRedistributionIntoBoxes.java) | 1ms     | 100%   |
+| Question                                                                                                            | Submission                                                                                                 | Runtime | Rank   |
+|---------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|---------|--------|
+| [Apple Redistribution into Boxes](https://leetcode.com/problems/apple-redistribution-into-boxes/description/)       | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/java/AppleRedistributionIntoBoxes.java)   | 1ms     | 100%   |
+| [Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/java/SortArrayByIncreasingFrequency.java) | 4ms     | 98.04% |
 
 ### Searching
 | Question                                                                                                                                                    | Submission                                                                                                                  | Runtime | Rank   |
