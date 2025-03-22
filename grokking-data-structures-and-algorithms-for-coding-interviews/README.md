@@ -105,6 +105,11 @@ Some of my submissions are sourced from my [LeetCode](https://github.com/shumarb
 | [Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/description/)                                                 | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/java/SearchSuggestionsSystem.java)                                                         | 38ms    | 36.75% |
 | [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/description/)               | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/java/DesignAddAndSearchWordsDataStructure.java)                                            | 162ms   | 95.96% | 
 
+## Sorting
+| Question                                                                                                            | Submission                                                                                               | Runtime | Rank   |
+|---------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|---------|--------|
+| [Apple Redistribution into Boxes](https://leetcode.com/problems/apple-redistribution-into-boxes/description/)       | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/java/AppleRedistributionIntoBoxes.java) | 1ms     | 100%   |
+
 ### Searching
 | Question                                                                                                                                                    | Submission                                                                                                                  | Runtime | Rank   |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|---------|--------|
