@@ -122,3 +122,8 @@ Some of my submissions are sourced from my [LeetCode](https://github.com/shumarb
 | [Maximum Count of Positive Integer and Negative Integer](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/java/MaximumCountOfPositiveIntegerAndNegativeInteger.java) | 0ms     | 100%   |
 | [Minimum Common Value](https://leetcode.com/problems/minimum-common-value/description/)                                                                     | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/java/MinimumCommonValue.java)                              | 2ms     | 86.22% |
 | [Sqrt](https://www.designgurus.io/course-play/grokking-data-structures-for-coding-interviews/doc/solution-sqrt)                                             | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/java/SqrtX.java)                                           | 1ms     | 86%    |
+
+### Divide and Conquer Algorithm
+| Question                                                          | Submission                                                                           | Runtime | Rank   |
+|-------------------------------------------------------------------|--------------------------------------------------------------------------------------|---------|--------|
+| [Sort List](https://leetcode.com/problems/sort-list/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/java/SortList.java) | 9ms     | 94.52% |
