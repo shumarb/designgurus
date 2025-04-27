@@ -124,6 +124,7 @@ Some of my submissions are sourced from my [LeetCode](https://github.com/shumarb
 | [Sqrt](https://www.designgurus.io/course-play/grokking-data-structures-for-coding-interviews/doc/solution-sqrt)                                             | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/java/SqrtX.java)                                           | 1ms     | 86%    |
 
 ### Divide and Conquer Algorithm
-| Question                                                          | Submission                                                                           | Runtime | Rank   |
-|-------------------------------------------------------------------|--------------------------------------------------------------------------------------|---------|--------|
-| [Sort List](https://leetcode.com/problems/sort-list/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/java/SortList.java) | 9ms     | 94.52% |
+| Question                                                                        | Submission                                                                                  | Runtime | Rank   |
+|---------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|---------|--------|
+| [Majority Element](https://leetcode.com/problems/majority-element/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/java/MajorityElement.java) | 2ms     | 99.80% |
+| [Sort List](https://leetcode.com/problems/sort-list/description/)               | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/java/SortList.java)        | 9ms     | 94.52% |
