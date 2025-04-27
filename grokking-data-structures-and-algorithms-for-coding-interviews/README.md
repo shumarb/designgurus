@@ -7,6 +7,7 @@ Some of my submissions are sourced from my [LeetCode](https://github.com/shumarb
 
 (*Note*: Rank indicates the percentage of submissions that my code outperforms in terms of runtime.)
 
+## Submissions
 ### Array
 | Question                                                                                                    | Submission                                                                                             | Runtime | Rank   |
 |-------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|---------|--------|
