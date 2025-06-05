@@ -131,7 +131,8 @@ Some of my submissions are sourced from my [LeetCode](https://github.com/shumarb
 | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/java/ValidPalindromeTwo.java) | 4ms     | 99.71% |
 
 ### Divide and Conquer Algorithm
-| Question                                                                        | Submission                                                                                  | Runtime | Rank   |
-|---------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|---------|--------|
-| [Majority Element](https://leetcode.com/problems/majority-element/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/java/MajorityElement.java) | 2ms     | 99.80% |
-| [Sort List](https://leetcode.com/problems/sort-list/description/)               | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/java/SortList.java)        | 9ms     | 94.52% |
+| Question                                                                                    | Submission                                                                                  | Runtime | Rank   |
+|---------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|---------|--------|
+| [Longest Nice Substring](https://leetcode.com/problems/longest-nice-substring/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/LongestNiceSubstring.java) | 37ms    | 17.29% |
+| [Majority Element](https://leetcode.com/problems/majority-element/description/)             | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/java/MajorityElement.java) | 2ms     | 99.80% |
+| [Sort List](https://leetcode.com/problems/sort-list/description/)                           | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/java/SortList.java)        | 9ms     | 94.52% |
