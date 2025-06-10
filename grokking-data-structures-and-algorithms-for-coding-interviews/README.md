@@ -130,7 +130,7 @@ Some of my submissions are sourced from my [LeetCode](https://github.com/shumarb
 |---------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|---------|--------|
 | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/description/)                                     | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/java/ValidPalindromeTwo.java)          | 4ms     | 99.71% |
 | [Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-gap/description/)                                    | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/MaximumLengthOfPairChain.java)         | 9ms     | 80.63% |
-| [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/MinimumAddToMakeParenthesesValid.java) | 2ms     | 23.74% |
+| [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/MinimumAddToMakeParenthesesValid.java) | 1ms     | 51.13% |
 
 ### Divide and Conquer Algorithm
 | Question                                                                                    | Submission                                                                                  | Runtime | Rank   |
