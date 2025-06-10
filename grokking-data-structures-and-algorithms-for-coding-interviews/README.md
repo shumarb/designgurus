@@ -126,9 +126,10 @@ Some of my submissions are sourced from my [LeetCode](https://github.com/shumarb
 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)                                                                                                 | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/java/SqrtX.java)                                           | 1ms     | 86%    |
 
 ### Greedy Algorithm
-| Question                                                                              | Submission                                                                                     | Runtime | Rank   |
-|---------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|---------|--------|
-| [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/java/ValidPalindromeTwo.java) | 4ms     | 99.71% |
+| Question                                                                                                                  | Submission                                                                                              | Runtime | Rank   |
+|---------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|---------|--------|
+| [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/description/)                                     | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/java/ValidPalindromeTwo.java)          | 4ms     | 99.71% |
+| [Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-gap/description/)                                    | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/MaximumLengthOfPairChain.java)         | 9ms     | 80.63% |
 
 ### Divide and Conquer Algorithm
 | Question                                                                                    | Submission                                                                                  | Runtime | Rank   |
