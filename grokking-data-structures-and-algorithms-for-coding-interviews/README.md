@@ -3,6 +3,7 @@
 ## Overview
 This folder contains my submissions for the [Grokking Data Structures & Algorithms for Coding Interviews](https://www.designgurus.io/course/grokking-data-structures-for-coding-interviews) course,
 organised by the question sequence in the training plan.
+
 Some of my submissions are sourced from my [LeetCode](https://github.com/shumarb/leetcode) repository.
 
 (*Note*: Rank indicates the percentage of submissions that my code outperforms in terms of runtime.)
@@ -95,6 +96,7 @@ Some of my submissions are sourced from my [LeetCode](https://github.com/shumarb
 |-------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|---------|--------|
 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/description/)                                   | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/java/FindIfPathExistsInGraph.java)                | 53ms    | 88.29% |
 | [Number of Provinces](https://leetcode.com/problems/number-of-provinces/description/)                                                     | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/java/NumberOfProvinces.java)                      | 1ms     | 88.40% |
+| [Find Eventual Safe States](https://leetcode.com/problems/ind-eventual-safe-states/description/)                                          | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/FindEventualSafeStates.java)                      | 4ms     | 98.69% |
 | [Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/java/MinimumNumberOfVerticesToReachAllNodes.java) | 8ms     | 99.23% |
 
 ### Trie
