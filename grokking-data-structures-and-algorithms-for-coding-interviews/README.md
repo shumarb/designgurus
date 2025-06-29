@@ -96,7 +96,7 @@ Some of my submissions are sourced from my [LeetCode](https://github.com/shumarb
 |-------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|---------|--------|
 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/description/)                                   | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/java/FindIfPathExistsInGraph.java)                | 53ms    | 88.29% |
 | [Number of Provinces](https://leetcode.com/problems/number-of-provinces/description/)                                                     | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/java/NumberOfProvinces.java)                      | 1ms     | 88.40% |
-| [Find Eventual Safe States](https://leetcode.com/problems/ind-eventual-safe-states/description/)                                          | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/FindEventualSafeStates.java)                      | 4ms     | 98.69% |
+| [Find Eventual Safe States](https://leetcode.com/problems/ind-eventual-safe-states/description/)                                          | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/FindEventualSafeStates.java)                      | 3ms     | 99.90% |
 | [Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/java/MinimumNumberOfVerticesToReachAllNodes.java) | 8ms     | 99.23% |
 
 ### Trie
