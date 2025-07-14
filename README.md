@@ -7,6 +7,7 @@ This repository contains my submissions for the following courses listed on [Des
 | Course                                                                                                                                                                        |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [Grokking Data Structures & Algorithms for Coding Interviews](https://github.com/shumarb/designgurus/blob/main/grokking-data-structures-and-algorithms-for-coding-interviews) |
+| [Grokking System Design Fundamentals](https://github.com/shumarb/designgurus/blob/main/grokking-system-design-fundamentals)                                                   |
 
 ### Resources
 | Resource                                                                      |
