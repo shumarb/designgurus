@@ -15,9 +15,9 @@ To utilize full scalability and reduce redundancy, a load balancer is added at t
 - Between the web server and an internal platform layer (eg: application servers).
 - Between the internal platform layer and database.
 
-## Key Terminology & Concepts
+## Terminologies
 
-| Terminology/Concept      | Explanation                                                                                                                                                                         |
+| Terminology              | Explanation                                                                                                                                                                         |
 |--------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Load Balancer            | A device/software that distributes network traffic across multiple servers based on predefined rules/algorithms.                                                                    |
 | Load Balancing Algorithm | A method used by the load balancer to determine how to distribute incoming traffic among the backend servers.                                                                       |
