@@ -46,7 +46,7 @@ To utilize full scalability and reduce redundancy, a load balancer is added at t
 | 5 | Load balancer receives the response from the server or resource and sends it to the client.                        |
 
 ## Algorithms
-### Round Robin
+### 1. Round Robin
 Incoming requests are distributed across the servers in a cyclic order (i.e.: Assign a request to the first server, then onto the second, until the last server, before starting again at the first).
 
 | Advantages                                                   | Disadvantages                                                                                                                                                                     |
