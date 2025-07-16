@@ -8,6 +8,7 @@ This folder is my summary of Load Balancing Concepts:
 | [Introduction](#introduction)   |
 | [Terminologies](#terminologies) |
 | [Execution](#execution)         |
+| [Algorithms](#algorithms)       |
 
 ## Introduction
 Load Balancing is the **even** distribution of incoming requests and traffic across multiple servers to ensure:
@@ -41,3 +42,18 @@ To utilize full scalability and reduce redundancy, a load balancer is added at t
 3. The load balancer forwards the incoming traffic to the selected server or resource.
 4. The server or resource processes the request and sends a response back to the load balancer.
 5. The load balancer receives the response from the server or resource and sends it to the client.
+
+## Algorithms
+### Round Robin
+- Technique: Distributes incoming requests to servers in a cyclic order by assigning a request to the first server, the moves to the second, third, until the last server, before starting again at the first.
+
+- Advantages
+1. Ensures an equal distribution of requests among the servers.
+2. Easy to implement and understand. 
+3. Works well when servers have similar capacities.
+
+- Disadvantages
+1. **No Load Awareness**: Does not consider the current load or capacity of each server. All servers are treated equally regardless of their current state.
+2. **No Session Affinity**: Subsequent requests from the same client may be directed to different servers, which can be problematic for stateful applications.
+3. **Performance Issues with Different Capacities**: May not perform optimally when servers have different capacities.
+4. **Predictable Distribution Pattern**: Predictable request distribution pattern risks being exploited by attackers by finding vulnerabilities in specific servers by predicting which server will handle their requests.
