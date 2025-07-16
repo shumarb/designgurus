@@ -47,7 +47,7 @@ To utilize full scalability and reduce redundancy, a load balancer is added at t
 
 ## Algorithms
 ### Round Robin
-- Technique: Distributes incoming requests to servers in a cyclic order by assigning a request to the first server, the moves to the second, third, until the last server, before starting again at the first.
+Incoming requests are distributed across the servers in a cyclic order (i.e.: Assign a request to the first server, then onto the second, until the last server, before starting again at the first).
 
 | Advantages                                                   | Disadvantages                                                                                                                                                                     |
 |--------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
