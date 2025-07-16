@@ -1,6 +1,15 @@
 # Load Balancing
 
 ## Overview
+This folder is my summary of Load Balancing Concepts:
+
+| Concept                         |
+|---------------------------------|
+| [Introduction](#introduction)   |
+| [Terminologies](#terminologies) |
+| [Execution](#execution)         |
+
+## Introduction
 Load Balancing is the **even** distribution of incoming requests and traffic across multiple servers to ensure:
 - High availability.
 - Reliability.
