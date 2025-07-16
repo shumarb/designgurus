@@ -37,11 +37,13 @@ To utilize full scalability and reduce redundancy, a load balancer is added at t
 | SSL/TLS Termination      | The process of decrypting SSL/TLS-encrypted traffic at the load balancer level, to offload the decryption burder from backend servers and allow for centralized SSL/TLS management. |
 
 ## Execution
-1. The load balancer receives the request from a client.
-2. The load balancer evaluates the incoming request and determines which server or resource should handle the request via various load balancing algorithms.
-3. The load balancer forwards the incoming traffic to the selected server or resource.
-4. The server or resource processes the request and sends a response back to the load balancer.
-5. The load balancer receives the response from the server or resource and sends it to the client.
+| # | Description                                                                                                        |
+|---|--------------------------------------------------------------------------------------------------------------------|
+| 1 | Load balancer receives and evaluates the request from a client.                                                    |
+| 2 | Load balancer determines which server or resource should handle the request via various load balancing algorithms. |
+| 3 | Load balancer forwards the incoming traffic to the selected server or resource.                                    |
+| 4 | The server or resource processes the request and sends a response back to the load balancer.                       |
+| 5 | The load balancer receives the response from the server or resource and sends it to the client.                    |
 
 ## Algorithms
 ### Round Robin
