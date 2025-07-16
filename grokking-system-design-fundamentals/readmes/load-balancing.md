@@ -47,13 +47,9 @@ To utilize full scalability and reduce redundancy, a load balancer is added at t
 ### Round Robin
 - Technique: Distributes incoming requests to servers in a cyclic order by assigning a request to the first server, the moves to the second, third, until the last server, before starting again at the first.
 
-- Advantages
-1. Ensures an equal distribution of requests among the servers.
-2. Easy to implement and understand. 
-3. Works well when servers have similar capacities.
-
-- Disadvantages
-1. **No Load Awareness**: Does not consider the current load or capacity of each server. All servers are treated equally regardless of their current state.
-2. **No Session Affinity**: Subsequent requests from the same client may be directed to different servers, which can be problematic for stateful applications.
-3. **Performance Issues with Different Capacities**: May not perform optimally when servers have different capacities.
-4. **Predictable Distribution Pattern**: Predictable request distribution pattern risks being exploited by attackers by finding vulnerabilities in specific servers by predicting which server will handle their requests.
+| Advantages                                                   | Disadvantages                                                                                                                                                                     |
+|--------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Ensures an equal distribution of requests among the servers. | Does not consider the current load or capacity of each server. All servers are treated equally regardless of their current state.                                                 |
+| Easy to implement and understand.                            | Subsequent requests from the same client may be directed to different servers, which can be problematic for stateful applications.                                                |
+| Works well when servers have similar capacities.             | May not perform optimally when servers have different capacities.                                                                                                                 |
+| -                                                            | Predictable request distribution pattern risks being exploited by attackers by finding vulnerabilities in specific servers by predicting which server will handle their requests. |
