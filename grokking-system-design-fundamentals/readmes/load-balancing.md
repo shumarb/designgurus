@@ -42,8 +42,8 @@ To utilize full scalability and reduce redundancy, a load balancer is added at t
 | 1 | Load balancer receives and evaluates the request from a client.                                                    |
 | 2 | Load balancer determines which server or resource should handle the request via various load balancing algorithms. |
 | 3 | Load balancer forwards the incoming traffic to the selected server or resource.                                    |
-| 4 | The server or resource processes the request and sends a response back to the load balancer.                       |
-| 5 | The load balancer receives the response from the server or resource and sends it to the client.                    |
+| 4 | Server or resource processes the request and sends a response back to the load balancer.                           |
+| 5 | Load balancer receives the response from the server or resource and sends it to the client.                        |
 
 ## Algorithms
 ### Round Robin
