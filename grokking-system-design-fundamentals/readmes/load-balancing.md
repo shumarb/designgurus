@@ -27,14 +27,14 @@ To utilize full scalability and reduce redundancy, a load balancer is added at t
 
 ## Terminologies
 
-| Terminology              | Description                                                                                                                                                                         |
-|--------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Load Balancer            | A device/software that distributes network traffic across multiple servers based on predefined rules/algorithms.                                                                    |
-| Load Balancing Algorithm | A method used by the load balancer to determine how to distribute incoming traffic among the backend servers.                                                                       |
-| Backend Servers          | The servers that receive and process requests forwarded by the load balancer. Also referred to as the **Server Pool** or **Server Farm**.                                           |
-| Health Checks            | Periodic tests that the load balancer performs to determine the availability and performance of backend servers.                                                                    |
-| Session Persistence      | A technique that ensures subsequent requests from the same client are directed to the same backend server to maintain session state and provide a consistent user experience.       |
-| SSL/TLS Termination      | The process of decrypting SSL/TLS-encrypted traffic at the load balancer level, to offload the decryption burder from backend servers and allow for centralized SSL/TLS management. |
+| Terminology              | Description                                                                                                                                                                   |
+|--------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Load Balancer            | A software that distributes network traffic across multiple servers based on predefined algorithms.                                                                           |
+| Load Balancing Algorithm | A method used by the load balancer to determine how to distribute incoming traffic among the backend servers.                                                                 |
+| Backend Servers          | The servers that receive and process requests forwarded by the load balancer. Also referred to as the **Server Pool** or **Server Farm**.                                     |
+| Health Checks            | Periodic tests that the load balancer performs to determine the availability and performance of backend servers.                                                              |
+| Session Persistence      | A technique that ensures subsequent requests from the same client are directed to the same backend server to maintain session state and provide a consistent user experience. |
+| SSL/TLS Termination      | Decryption of SSL/TLS-encrypted traffic at the load balancer level to offload the decryption burden from backend servers and allow for centralized SSL/TLS management.        |
 
 ## Execution
 | # | Description                                                                                                        |
