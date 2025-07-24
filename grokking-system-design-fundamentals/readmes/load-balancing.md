@@ -54,3 +54,12 @@ Incoming requests are distributed across the servers in a cyclic order (i.e.: As
 | Distributes requests equally across servers.    | Treats all servers equally regardless of their current load.                                                             |
 | Easy to implement and understand.               | Subsequent requests from the same client may be directed to different servers, causing issues for stateful applications. |
 | Effective when servers have similar capacities. | Attackers may exploit request distribution patterns to predict and target vulnerable servers.                            |
+
+### 2. Least Connections
+Incoming requests are assigned to the server with the least active connections at the time of the request.
+
+| Advantages                                                                             | Disadvantages                                                              |
+|----------------------------------------------------------------------------------------|----------------------------------------------------------------------------|
+| Load awareness by considering current load of each server.                             | Higher complexity due to real-time monitoring of active connections.       |
+| Adapts to traffic patterns and server loads; ensuring no server becomes a bottleneck.  | Increased overhead as load balancer maintains state of active connections. |
+| Effective for servers with varying loads and capacities.                               | Servers can experience rapid spike for short connection durations.         |
