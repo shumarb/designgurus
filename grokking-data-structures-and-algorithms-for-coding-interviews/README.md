@@ -142,4 +142,4 @@ Some of my submissions are sourced from my [LeetCode](https://github.com/shumarb
 | [Longest Nice Substring](https://leetcode.com/problems/longest-nice-substring/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/LongestNiceSubstring.java) | 37ms    | 17.29% |
 | [Majority Element](https://leetcode.com/problems/majority-element/description/)             | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/java/MajorityElement.java) | 2ms     | 99.80% |
 | [Sort List](https://leetcode.com/problems/sort-list/description/)                           | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/java/SortList.java)        | 9ms     | 94.52% |
-| [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/description/)       | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/MaximumBinaryTree.java)    | 3ms     | 23.38% |
+| [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/description/)       | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/MaximumBinaryTree.java)    | 1ms     | 100%   |
