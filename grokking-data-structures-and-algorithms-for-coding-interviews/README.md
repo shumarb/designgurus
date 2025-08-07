@@ -143,3 +143,4 @@ Some of my submissions are sourced from my [LeetCode](https://github.com/shumarb
 | [Majority Element](https://leetcode.com/problems/majority-element/description/)             | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/java/MajorityElement.java) | 2ms     | 99.80% |
 | [Sort List](https://leetcode.com/problems/sort-list/description/)                           | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/java/SortList.java)        | 9ms     | 94.52% |
 | [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/description/)       | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/MaximumBinaryTree.java)    | 1ms     | 100%   |
+| [Beautiful Array](https://leetcode.com/problems/beautiful-array/description/)               | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/BeautifulArray.java)       | 0ms     | 100%   |
