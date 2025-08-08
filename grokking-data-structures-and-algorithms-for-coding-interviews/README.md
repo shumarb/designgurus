@@ -136,7 +136,7 @@ Some of my submissions are sourced from my [LeetCode](https://github.com/shumarb
 | [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/description/)     | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/MinimumAddToMakeParenthesesValid.java)   | 1ms     | 51.13% |
 | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/description/)                               | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/RemoveDuplicateLetters.java)             | 2ms     | 94.48% |
 | [Largest Palindromic Number](https://leetcode.com/problems/largest-palindromic-number/description/)                           | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/LargestPalindromicNumber.java)           | 10ms    | 80.47% |
-| [Removing Minimum and Maximum From Array](https://leetcode.com/problems/removing-minimum-and-maximum-from-array/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/RemovingMinimumAndMaximumFromArray.java) | 3ms     | 59.75% |
+| [Removing Minimum and Maximum From Array](https://leetcode.com/problems/removing-minimum-and-maximum-from-array/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/RemovingMinimumAndMaximumFromArray.java) | 2ms     | 100%   |
 
 ### Divide and Conquer Algorithm
 | Question                                                                                    | Submission                                                                                  | Runtime | Rank   |
