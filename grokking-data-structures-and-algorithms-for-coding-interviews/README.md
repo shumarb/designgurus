@@ -22,7 +22,7 @@ Submissions are organised by the training plan, with most sourced from my [LeetC
 |-----------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|---------|--------|
 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/java/RichestCustomerWealth.java) | 0ms     | 100%   |
 | [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/description/)         | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/java/MatrixDiagonalSum.java)     | 0ms     | 100%   |
-| [Row With Maximum Ones](https://leetcode.com/problems/row-with-maximum-ones/description/)     | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/java/RowWithMaximumOnes.java)    | 5ms     | 27.61% |
+| [Row With Maximum Ones](https://leetcode.com/problems/row-with-maximum-ones/description/)     | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/java/RowWithMaximumOnes.java)    | 4ms     | 78.17% |
 
 ### Stack
 | Question                                                                                                                                                                | Submission                                                                                                                                                        | Runtime | Rank   |
