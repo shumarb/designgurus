@@ -1,7 +1,7 @@
 # Design Gurus
 
 ## Overview
-This repository contains my submissions for the following courses listed on [Design Gurus](https://www.designgurus.io/):
+This repository contains my submissions for these [Design Gurus](https://www.designgurus.io/) courses:
 
 ### Courses
 | Course                                                                                                                                                                        | Status                                                                                                                                                                                                                         |
