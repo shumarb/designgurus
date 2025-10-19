@@ -55,6 +55,11 @@ Incoming requests are distributed across the servers in a cyclic order (i.e.: As
 | Easy to implement and understand.               | Subsequent requests from the same client may be directed to different servers, causing issues for stateful applications. |
 | Effective when servers have similar capacities. | Attackers may exploit request distribution patterns to predict and target vulnerable servers.                            |
 
+Use Cases:
+- Heterogeneous Environments: Environments where servers have different capacities and workloads, and loads must be dynamically distributed.
+- Variable Traffic Patterns: Works well for applications with unpredictable or highly variable traffic patterns to ensure no single server is overwhelmed.
+- Stateful Applications: Effective for applications where maintaining session state is important to ensure even distribution of active sessions.
+
 ### 2. Least Connections
 Incoming requests are assigned to the server with the least active connections at the time of the request.
 
