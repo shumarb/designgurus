@@ -68,3 +68,8 @@ Incoming requests are assigned to the server with the least active connections a
 | Load awareness by considering current load of each server.                             | Higher complexity due to real-time monitoring of active connections.       |
 | Adapts to traffic patterns and server loads; ensuring no server becomes a bottleneck.  | Increased overhead as load balancer maintains state of active connections. |
 | Effective for servers with varying loads and capacities.                               | Servers can experience rapid spike for short connection durations.         |
+
+Use Cases:
+- Heterogeneous Environments: Environments where servers have different capacities and workloads, and loads must be dynamically distributed.
+- Variable Traffic Patterns: Works well for applications with unpredictable or highly variable traffic patterns to ensure no single server is overwhelmed.
+- Stateful Applications: Effective for applications where maintaining session state is important to ensure even distribution of active sessions.
