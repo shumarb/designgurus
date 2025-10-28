@@ -1,0 +1,10 @@
+# Grokking the Art of Recursion for Coding Interviews
+
+## Overview
+This folder contains my submissions for the [Grokking the Art of Recursion for Coding Interviews](https://www.designgurus.io/course/grokking-recursion-for-coding-interview) course.
+
+## Submissions
+### Coding Problems (Easy)
+| Question                                                                               | Submission                                                                                                                             | Runtime | Rank |
+|----------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|---------|------|
+| [Basic Sum](https://www.designgurus.io/course-play/grokking-recursion/doc/1-basic-sum) | [Java](https://github.com/shumarb/designgurus/blob/main/grokking-the-art-of-recursion-for-coding-interviews/submissions/BasicSum.java) | -       | -    |
