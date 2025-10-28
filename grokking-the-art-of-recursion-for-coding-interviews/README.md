@@ -5,6 +5,7 @@ This folder contains my submissions for the [Grokking the Art of Recursion for C
 
 ## Submissions
 ### Coding Problems (Easy)
-| Question                                                                               | Submission                                                                                                                             | Runtime | Rank |
-|----------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|---------|------|
-| [Basic Sum](https://www.designgurus.io/course-play/grokking-recursion/doc/1-basic-sum) | [Java](https://github.com/shumarb/designgurus/blob/main/grokking-the-art-of-recursion-for-coding-interviews/submissions/BasicSum.java) | -       | -    |
+| Question                                                                               | Submission                                                                                                                              | Runtime | Rank |
+|----------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|---------|------|
+| [Basic Sum](https://www.designgurus.io/course-play/grokking-recursion/doc/1-basic-sum) | [Java](https://github.com/shumarb/designgurus/blob/main/grokking-the-art-of-recursion-for-coding-interviews/submissions/BasicSum.java)  | -       | -    |
+| [Factorial](https://www.designgurus.io/course-play/grokking-recursion/doc/2-factorial) | [Java](https://github.com/shumarb/designgurus/blob/main/grokking-the-art-of-recursion-for-coding-interviews/submissions/Factorial.java) | -       | -    |
