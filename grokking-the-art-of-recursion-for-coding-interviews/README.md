@@ -6,7 +6,7 @@ This folder contains my submissions for the [Grokking the Art of Recursion for C
 (*Note*: Rank indicates the percentage of submissions that my code outperforms in terms of runtime.).
 
 ## Submissions
-### Coding Problems (Easy)
+### Easy
 | Question                                                                                                                  | Submission                                                                                                                                              | Runtime | Rank |
 |---------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|---------|------|
 | [Basic Sum](https://www.designgurus.io/course-play/grokking-recursion/doc/1-basic-sum)                                    | [Java](https://github.com/shumarb/designgurus/blob/main/grokking-the-art-of-recursion-for-coding-interviews/submissions/BasicSum.java)                  | -       | -    |
@@ -17,7 +17,7 @@ This folder contains my submissions for the [Grokking the Art of Recursion for C
 | [Perfect Square](https://www.designgurus.io/course-play/grokking-recursion/doc/6-perfect-square)                          | [Java](https://github.com/shumarb/designgurus/blob/main/grokking-the-art-of-recursion-for-coding-interviews/submissions/PerfectSquare.java)             | -       | -    |
 | [Number Frequency](https://www.designgurus.io/course-play/grokking-recursion/doc/7-number-frequency)                      | [Java](https://github.com/shumarb/designgurus/blob/main/grokking-the-art-of-recursion-for-coding-interviews/submissions/NumberFrequency.java)           | -       | -    |
 
-### Coding Problems (Medium)
+### Medium
 | Question                                                                                                        | Submission                                                                                                                                    | Runtime | Rank |
 |-----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|---------|------|
 | [Pascal's Triangle](https://www.designgurus.io/course-play/grokking-recursion/doc/8-pascals-triangle)           | [Java](https://github.com/shumarb/designgurus/blob/main/grokking-the-art-of-recursion-for-coding-interviews/submissions/PascalsTriangle.java) | -       | -    |
