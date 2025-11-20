@@ -16,6 +16,6 @@ This folder contains my submissions for the [Grokking the Art of Recursion for C
 | [Number Frequency](https://www.designgurus.io/course-play/grokking-recursion/doc/7-number-frequency)                      | [Java](https://github.com/shumarb/designgurus/blob/main/grokking-the-art-of-recursion-for-coding-interviews/submissions/NumberFrequency.java)           |
 
 ### Coding Problems (Medium)
-| Question                                                                                       | Submission                                                                                                                                    |
-|------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
-| [Pascal's Triangle](https://www.designgurus.io/course-play/grokking-recursion/doc/1-basic-sum) | [Java](https://github.com/shumarb/designgurus/blob/main/grokking-the-art-of-recursion-for-coding-interviews/submissions/PascalsTriangle.java) |
+| Question                                                                                              | Submission                                                                                                                                    |
+|-------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
+| [Pascal's Triangle](https://www.designgurus.io/course-play/grokking-recursion/doc/8-pascals-triangle) | [Java](https://github.com/shumarb/designgurus/blob/main/grokking-the-art-of-recursion-for-coding-interviews/submissions/PascalsTriangle.java) |
