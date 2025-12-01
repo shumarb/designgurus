@@ -24,3 +24,8 @@ This folder contains my submissions for the [Grokking the Art of Recursion for C
 | [Binary Search](https://www.designgurus.io/course-play/grokking-recursion/doc/9-binary-search)                  | [Java](https://github.com/shumarb/designgurus/blob/main/grokking-the-art-of-recursion-for-coding-interviews/submissions/BinarySearch.java)    | -       | -    |
 | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/InsertIntoABinarySearchTree.java)                                            | 0ms     | 100% |
 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/)       | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/BinaryTreeInorderTraversal.java)                                             | 0ms     | 100% |
+
+### Hard
+| Question                                                                        | Submission                                                                             | Runtime | Rank |
+|---------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|---------|------|
+| [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/FibonacciNumber.java) | 0ms     | 100% |
