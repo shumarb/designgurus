@@ -27,6 +27,7 @@ This folder contains my submissions for the [Grokking the Art of Recursion for C
 | [Depth First Search](https://www.designgurus.io/course-play/grokking-recursion/doc/14-depth-first-search)       | [Java](https://github.com/shumarb/designgurus/blob/main/grokking-the-art-of-recursion-for-coding-interviews/submissions/DepthFirstSearch.java) | -       | -    |
 
 ### Hard
-| Question                                                                        | Submission                                                                             | Runtime | Rank |
-|---------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|---------|------|
-| [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/FibonacciNumber.java) | 0ms     | 100% |
+| Question                                                                                    | Submission                                                                             | Runtime | Rank |
+|---------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|---------|------|
+| [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/)             | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/FibonacciNumber.java) | 0ms     | 100% |
+| [Good Number](https://www.designgurus.io/course-play/grokking-recursion/doc/17-good-number) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/GoodNumber.java)      | -       | -    |
