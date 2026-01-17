@@ -73,3 +73,20 @@ Use Cases:
 - Heterogeneous Environments: Environments where servers have different capacities and workloads, and loads must be dynamically distributed.
 - Variable Traffic Patterns: Works well for applications with unpredictable or highly variable traffic patterns to ensure no single server is overwhelmed.
 - Stateful Applications: Effective for applications where maintaining session state is important to ensure even distribution of active sessions.
+
+### Weighted Round Robin
+Weighted Round Robin is an `enhanced` version of the Round Robin load balancing algorithm
+
+It assigns weights to each server based on their capacity or performance, distributing incoming requests proportionally according to their weight.
+This ensures that the more powerful servers handle a larger share of the load, while less powerful servers handle a smaller share.
+
+| Advantages                                                                                | Disadvantages                                                                       |
+|-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
+| Load Distribution according to Capacity.                                                  | Complexity in weight assignment to servers                                          |
+| Easily adjustable to accomodate changes in server capacities or additions of new servers. | Increased overload, especially in dynamic environments when performance fluctuates. |
+| Optimises overrall system performance by preventing overloading of less powerful servers. | Not optimal for high variable loads as it does not consider real-time server load.  |
+
+Use Cases:
+- Heterogeneous Server Environments: Ideal for environments where servers have different processing capabilities, ensuring efficient use of resources.
+- Scalable Web Applications: Ideal for web applications where different servers may have varying performance characteristics.
+- Database Clusters: Useful in database clusters where some nodes have higher processing power and can handle more queries.
