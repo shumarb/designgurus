@@ -74,7 +74,7 @@ Use Cases:
 - Variable Traffic Patterns: Works well for applications with unpredictable or highly variable traffic patterns to ensure no single server is overwhelmed.
 - Stateful Applications: Effective for applications where maintaining session state is important to ensure even distribution of active sessions.
 
-### Weighted Round Robin
+### 3. Weighted Round Robin
 Weighted Round Robin is an `enhanced` version of the Round Robin load balancing algorithm
 
 It assigns weights to each server based on their capacity or performance, distributing incoming requests proportionally according to their weight.
