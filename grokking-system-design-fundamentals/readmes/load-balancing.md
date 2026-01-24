@@ -90,3 +90,19 @@ Use Cases:
 - Heterogeneous Server Environments: Ideal for environments where servers have different processing capabilities, ensuring efficient use of resources.
 - Scalable Web Applications: Ideal for web applications where different servers may have varying performance characteristics.
 - Database Clusters: Useful in database clusters where some nodes have higher processing power and can handle more queries.
+
+### 4. Weighted Least Connections
+Weighted Least Connections `combines` the principles of the `Least Connections` and `Weighted Round Robin` algorithms.
+It considers both the current load (number of active connections) on each server and the relative capacity of each server (weight).
+This ensures that more powerful servers handle a proportionally larger share of the load, whilst dynamically adjusting to the real-time load on each server.
+
+| Advantages                                                                                                          | Disadvantages                                                                                                                    |
+|---------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|
+| Dynamic Load Balancing: Adjusts to the real-time load on each server to ensure balanced distribution of requests.   | More complex implementation compared to simpler algorithms.                                                                      |
+| Complexity Awareness: Considers the relative capacity of each server, leading to improved utilization of resources. | Increased Overhead: Requires load balancero to keep track of both active connections and server weights.                         |
+| Flexibility: Can handle environments with heterogeneous servers and variable load patterns effectively.             | Weight Assignment: Determining appropriate weights for each server can be challenging and requirs accurate performance metrices. |
+
+Use Cases
+- Heterogeneous Server Environments: Ideal for environments where servers have different processing capacities and workloads.
+- High Traffic Web Applications: Suitable for web applications with `variable` traffic patterns, ensuring no single server becomes a bottleneck.
+- Database Clusters: Useful in database clusters where nodes have varying performance capabilities and query loads.
