@@ -106,3 +106,16 @@ Use Cases
 - Heterogeneous Server Environments: Ideal for environments where servers have different processing capacities and workloads.
 - High Traffic Web Applications: Suitable for web applications with `variable` traffic patterns, ensuring no single server becomes a bottleneck.
 - Database Clusters: Useful in database clusters where nodes have varying performance capabilities and query loads.
+
+### 5. IP Hash
+A hash function converts the client's IP address into a hash value, which determines which server handles the client's request.
+
+| Advantages                                                                                                    | Disadvantages                                                                                                                     |
+|---------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
+| Session Persistence: Ensures requests from same client IP address are consistently routed to the same server. | Uneven Distribution: Some servers may receive more requests than others.                                                          |
+| Simplicity: Easy to implement and maintain.                                                                   | Dynamic Changes: Adding or removing servers can disrupt the hash mapping, causing some clients to be routed to different servers. |
+| Deterministic: Prefictable and consistent routing based on client's IP address.                               | Limited Flexibility: Does not consider the current load or capacity of servers, leading to inefficiecies.                         |
+
+Use Cases:
+- Stateful Applications: Ideal for applications where maintaining session persistence is important (eg: online shopping carts).
+- Geographically Distributed Clients: Useful when clients are distributed across different regions and consistent routing is required.
