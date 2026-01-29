@@ -138,3 +138,18 @@ Use Cases
 - Real-time Applications: Ideal for applications with low latency and fast response times (eg: online gaming, video streaming).
 - Web Services: Useful for web services and APIs that need to provide quick responses for user requests.
 - Dynamic Environments: Ideal for environments with fluctuating loads and varying server performance.
+
+### 7. Random
+Random distribution of incoming requests to servers. Over time, if the randomness is uniform, each server receives approximately the same number of requests.
+
+| Advantages                                                                                                                      | Disadvantages                                                                                                                                             |
+|---------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Simplicity: Easy to implement and understand.                                                                                   | No Load Awareness: Does not consider the current load/capacity of servers, which may lead to uneven distribution of server performance varies.            |
+| No State Maintenance: Load Balancer does not need to track the state/performance of servers.                                    | Potential for Imbalance: In the short-term, random selection can lead to uneven distribution of requests.                                                 |
+| Uniform Distribution: If the random selection is unifor, the load will be evenly distributed across servers over a long period. | No Session Affinity: Requests from the same cient may be directed to different servers, which can be problematic for stateful applications.               |
+| -                                                                                                                               | Security Risks: Randomness's inherent unpredictability increases difficulty of security systems to identify malicious patterns and detecting anomalities. |
+
+Use Cases
+- Homogeneous Environments: Environments where servers have similar capacity and performance.
+- Stateless Applications: Requests are handled independently.
+- Simple Deployments: Simple Deployments where the complexity of other load balancing algorithms are unjustified.
