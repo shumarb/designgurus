@@ -119,3 +119,22 @@ A hash function converts the client's IP address into a hash value, which determ
 Use Cases:
 - Stateful Applications: Ideal for applications where maintaining session persistence is important (eg: online shopping carts).
 - Geographically Distributed Clients: Useful when clients are distributed across different regions and consistent routing is required.
+
+### 6. Least Response Time
+Dynamic algorithm that assigns incoming requests to the server with the lowest response time.
+
+Implementation
+1. Load Balancer monitor `response time` (total time when a request is sent to a server until a response is received).
+2. Load Balancer assign requests to server with the lowest average response time.
+3. Load Balancer dynamically adjusts the assignment of requests based on real-time performance data, ensuring that the fastest server handles the next request.
+
+| Advantages                                                                                                                           | Disadvantages                                                                                                                                     |
+|--------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
+| Optimized Performance: Requests are handled by the fastest available server, hence reducing latency and improving client experience. | Higher Complexity: Continuous monitoring of server performance.                                                                                   |
+| Dynamic Load Balancing: Continuously adjusts to changing server performance to ensure optimal load distribution.                     | Overhed: Monitoring response times and dynamically adjusting the load.                                                                            |
+| Effective Resource Utilization: Improved utilization by directing traffic to servers that respond quickly.                           | Short-Term Variability: Response times can vary due to network fluctuations or transient server issues, potentially causing frequent rebalancing. |
+
+Use Cases
+- Real-time Applications: Ideal for applications with low latency and fast response times (eg: online gaming, video streaming).
+- Web Services: Useful for web services and APIs that need to provide quick responses for user requests.
+- Dynamic Environments: Ideal for environments with fluctuating loads and varying server performance.
