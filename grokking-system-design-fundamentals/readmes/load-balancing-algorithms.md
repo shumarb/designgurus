@@ -3,15 +3,15 @@
 ## Overview
 This section covers the Load Balancing Algorithms.
 
-| Algorithms                                                                                                                                                                            |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Round Robin](https://github.com/shumarb/designgurus/blob/main/grokking-system-design-fundamentals/readmes/load-balancing-algorithms.md#1-round-robin)                                |
-| [Least Connections](https://github.com/shumarb/designgurus/blob/main/grokking-system-design-fundamentals/readmes/load-balancing-algorithms.md#2-least-connections)                    |
-| [Weighted Round Robin](https://github.com/shumarb/designgurus/blob/main/grokking-system-design-fundamentals/readmes/load-balancing-algorithms.md#3-weighted-round-robin)              |
-| [Weighted Least Connections](https://github.com/shumarb/designgurus/blob/main/grokking-system-design-fundamentals/readmes/load-balancing-algorithms.md#4-weighted-leadst-connections) |
-| [IP Hash](https://github.com/shumarb/designgurus/blob/main/grokking-system-design-fundamentals/readmes/load-balancing-algorithms.md#5-ip-hash)                                        |
-| [Least Response Time](https://github.com/shumarb/designgurus/blob/main/grokking-system-design-fundamentals/readmes/load-balancing-algorithms.md#6-least-response-time)                |
-| [Random](https://github.com/shumarb/designgurus/blob/main/grokking-system-design-fundamentals/readmes/load-balancing-algorithms.md#7-random)                                          |
+| Algorithms                                                                                                                                                                |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [Round Robin](https://github.com/shumarb/designgurus/blob/main/grokking-system-design-fundamentals/readmes/load-balancing-algorithms.md#round-robin)                      |
+| [Least Connections](https://github.com/shumarb/designgurus/blob/main/grokking-system-design-fundamentals/readmes/load-balancing-algorithms.md#least-connections)          |
+| [Weighted Round Robin](https://github.com/shumarb/designgurus/blob/main/grokking-system-design-fundamentals/readmes/load-balancing-algorithms.md#weighted-round-robin)    |
+| [Weighted Least Connections](https://github.com/shumarb/designgurus/blob/main/grokking-system-design-fundamentals/readmes/load-balancing-algorithms.md#weighted-leadst-connections) |
+| [IP Hash](https://github.com/shumarb/designgurus/blob/main/grokking-system-design-fundamentals/readmes/load-balancing-algorithms.md#ip-hash)                              |
+| [Least Response Time](https://github.com/shumarb/designgurus/blob/main/grokking-system-design-fundamentals/readmes/load-balancing-algorithms.md#least-response-time)      |
+| [Random](https://github.com/shumarb/designgurus/blob/main/grokking-system-design-fundamentals/readmes/load-balancing-algorithms.md#random)                                |
 
 ## Algorithms
 ### Round Robin
