@@ -3,15 +3,16 @@
 ## Overview
 This section covers the Load Balancing Algorithms.
 
-| Algorithms                                                                                                                                                                |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Round Robin](https://github.com/shumarb/designgurus/blob/main/grokking-system-design-fundamentals/readmes/load-balancing-algorithms.md#round-robin)                      |
-| [Least Connections](https://github.com/shumarb/designgurus/blob/main/grokking-system-design-fundamentals/readmes/load-balancing-algorithms.md#least-connections)          |
-| [Weighted Round Robin](https://github.com/shumarb/designgurus/blob/main/grokking-system-design-fundamentals/readmes/load-balancing-algorithms.md#weighted-round-robin)    |
+| Algorithms                                                                                                                                                                          |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [Round Robin](https://github.com/shumarb/designgurus/blob/main/grokking-system-design-fundamentals/readmes/load-balancing-algorithms.md#round-robin)                                |
+| [Least Connections](https://github.com/shumarb/designgurus/blob/main/grokking-system-design-fundamentals/readmes/load-balancing-algorithms.md#least-connections)                    |
+| [Weighted Round Robin](https://github.com/shumarb/designgurus/blob/main/grokking-system-design-fundamentals/readmes/load-balancing-algorithms.md#weighted-round-robin)              |
 | [Weighted Least Connections](https://github.com/shumarb/designgurus/blob/main/grokking-system-design-fundamentals/readmes/load-balancing-algorithms.md#weighted-leadst-connections) |
-| [IP Hash](https://github.com/shumarb/designgurus/blob/main/grokking-system-design-fundamentals/readmes/load-balancing-algorithms.md#ip-hash)                              |
-| [Least Response Time](https://github.com/shumarb/designgurus/blob/main/grokking-system-design-fundamentals/readmes/load-balancing-algorithms.md#least-response-time)      |
-| [Random](https://github.com/shumarb/designgurus/blob/main/grokking-system-design-fundamentals/readmes/load-balancing-algorithms.md#random)                                |
+| [IP Hash](https://github.com/shumarb/designgurus/blob/main/grokking-system-design-fundamentals/readmes/load-balancing-algorithms.md#ip-hash)                                        |
+| [Least Response Time](https://github.com/shumarb/designgurus/blob/main/grokking-system-design-fundamentals/readmes/load-balancing-algorithms.md#least-response-time)                |
+| [Random](https://github.com/shumarb/designgurus/blob/main/grokking-system-design-fundamentals/readmes/load-balancing-algorithms.md#random)                                          |
+| [Least Bandwidth](https://github.com/shumarb/designgurus/blob/main/grokking-system-design-fundamentals/readmes/load-balancing-algorithms.md#least-bandwidth)                        |
 
 ## Algorithms
 ### Round Robin
@@ -121,3 +122,18 @@ Use Cases
 - Homogeneous Environments: Environments where servers have similar capacity and performance.
 - Stateless Applications: Requests are handled independently.
 - Simple Deployments: Simple Deployments where the complexity of other load balancing algorithms are unjustified.
+
+
+### Least Bandwidth
+Distribution of requests to the servers consuming the least amount of bandwidth at the time.
+
+| Advantages                                                                                                                      | Disadvantages                                                |
+|---------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
+| Dynamic Load Balancing: Continuously adjusts to the current network load, ensuring optimal distribution. | Higher Complexity: Continuous monitoring of bandwidth usage. |
+| Prevents Overloading: Prevents a server from being overwhelmed, ensuring better performance and stability. | Overhead: Monitoring bandwidth and dynamically adjusting load. |
+| Efficient Resource Utilization: Balancing bandwidth ensures all servers are used effectively. | Short-term Variability: Bandwith usage fluctuates, causing frequent rebalancing. |
+
+Use Cases:
+- High Bandwidth Applications (eg: Video Streaming, File Downloads).
+- Content Delivery Networks that need to balance traffic efficiently to delivery content quickly.
+- Real-time Applications that require maintaining low latency.
