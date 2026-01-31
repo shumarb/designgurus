@@ -13,6 +13,7 @@ This section covers the Load Balancing Algorithms.
 | [Least Response Time](https://github.com/shumarb/designgurus/blob/main/grokking-system-design-fundamentals/readmes/load-balancing-algorithms.md#least-response-time)                |
 | [Random](https://github.com/shumarb/designgurus/blob/main/grokking-system-design-fundamentals/readmes/load-balancing-algorithms.md#random)                                          |
 | [Least Bandwidth](https://github.com/shumarb/designgurus/blob/main/grokking-system-design-fundamentals/readmes/load-balancing-algorithms.md#least-bandwidth)                        |
+| [Custom Load](https://github.com/shumarb/designgurus/blob/main/grokking-system-design-fundamentals/readmes/load-balancing-algorithms.md#custom-load)                                |
 
 ## Algorithms
 ### Round Robin
@@ -123,7 +124,6 @@ Use Cases
 - Stateless Applications: Requests are handled independently.
 - Simple Deployments: Simple Deployments where the complexity of other load balancing algorithms are unjustified.
 
-
 ### Least Bandwidth
 Distribution of requests to the servers consuming the least amount of bandwidth at the time.
 
@@ -137,3 +137,24 @@ Use Cases:
 - High Bandwidth Applications (eg: Video Streaming, File Downloads).
 - Content Delivery Networks that need to balance traffic efficiently to delivery content quickly.
 - Real-time Applications that require maintaining low latency.
+
+### Custom Load
+Flexible and highly configurable approach where you define metrics and rules for distributing requests across the servers
+based on your specific requirements and conditions unique to your application.
+
+Implementation:
+1. Define Custom metrics that best represent the load/performance characteristics of your application (e.g. CPU usage, memory usage, disk I/O).
+2. Continuously monitor the defined metrics on each server in a pool. This may involve integrating with monitoring tools or custom scripts that collect and report the necessary data.
+3. Establish algorithms and rules that use the monitored metrics to make load balancing decisions.
+4. Use the collected data and rules to dynamically adjust the distribution of incoming requests, ensuring that the traffic is balanced according to the custom load criteria.
+
+| Advantages                                                                                                                                         | Disadvantages                                                                  |
+|----------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
+| Flexibility: Allows highly-customized load balancing strategies tailored to the specific neds and performance characteristics of your application. | Higher complexity to implement compared to standard load balancing algorithms. |
+| Optimized Resource Utilization: Promotes efficient use of server resources by considering a comprehensive set of metrics.                          | Monitoring Overhead. |
+| Easily adaptable to changing conditions and requirements, making it suitable for complex and dynamic environments. | Potential for misconfiguration: Incorrectly-defined metrics/rules can lead to suboptimal load balancing and perforamnce issues. |
+
+Use Cases
+- Applications with complex performance characteristics and varying resource requirements.
+- Environments where workload and server performance can change rapidly and unpredictably.
+- Applications where standard load balancing algorithms do not meet the specific application needs.
