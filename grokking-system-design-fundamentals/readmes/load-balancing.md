@@ -1,7 +1,7 @@
 # Load Balancing
 
 ## Overview
-This folder is my summary of Load Balancing Concepts:
+This section explains Load Balancing concepts:
 
 | Concept                         |
 |---------------------------------|
