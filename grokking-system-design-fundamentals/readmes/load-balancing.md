@@ -50,4 +50,4 @@ To utilize full scalability and reduce redundancy, a load balancer is added at t
 Please click [here](https://github.com/shumarb/designgurus/blob/main/grokking-system-design-fundamentals/readmes/load-balancing-algorithms.md) for a summary of the load balancing algorithms.
 
 ## Uses
-Please click [here](https://github.com/shumarb/designgurus/blob/main/grokking-system-design-fundamentals/readmes/load-balancing-uses.md) for uses of the load balancing algorithms.
+Please click [here](https://github.com/shumarb/designgurus/blob/main/grokking-system-design-fundamentals/readmes/load-balancing-algorithms-uses.md) for uses of the load balancing algorithms.
