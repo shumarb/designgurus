@@ -8,9 +8,8 @@ This section explains the fundamental uses of Load Balancing (LB) algorithms.
 | [High Availability and Fault Tolerance](https://github.com/shumarb/designgurus/blob/main/grokking-system-design-fundamentals/readmes/load-balancing-algorithms-uses.md#high-availability-and-fault-tolerance) |
 
 ### High Availability and Fault Tolerance
-- `Survival Rule`.
-- Rule when considering High Availability and Fault Tolerance, especially in situation where any server cannot operate.
-- LB does a `health ckeck` on the servers by constantly pinging the servers to check that it is operating. If a server fails to answer or returns an error, the LB cuts it off instantly and reroutes to an operating server.
+- Also known as `Survival Rule`, LBs are used when a server of large-scale application does not operate.
+- LB does a `health check` on the servers by constantly pinging the servers to check that it is operating. If a server fails to answer or returns an error, the LB cuts it off instantly and reroutes to an operating server.
 - Example:
   - Uber has 50 API servers handling ride requests, when Server #4 suffers a memory leak and freezes.
   - Without an LB: Users routed to Server #4 see an application error (e.g: spinning wheel), so they use a rival application, causing Uber to lose revenue.
