@@ -9,6 +9,7 @@ This folder is my summary of Load Balancing Concepts:
 | [Terminologies](#terminologies) |
 | [Execution](#execution)         |
 | [Algorithms](#algorithms)       |
+| [Uses](#uses)                   |
 
 ## Introduction
 Load Balancing is the **even** distribution of incoming requests and traffic across multiple servers to ensure:
@@ -47,3 +48,6 @@ To utilize full scalability and reduce redundancy, a load balancer is added at t
 
 ## Algorithms
 Please click [here](https://github.com/shumarb/designgurus/blob/main/grokking-system-design-fundamentals/readmes/load-balancing-algorithms.md) for a summary of the load balancing algorithms.
+
+## Uses
+Please click [here](https://github.com/shumarb/designgurus/blob/main/grokking-system-design-fundamentals/readmes/load-balancing-uses.md) for uses of the load balancing algorithms.
