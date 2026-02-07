@@ -8,7 +8,7 @@ This section explains the fundamental uses of Load Balancing (`LB`) algorithms.
 | [High Availability and Fault Tolerance](https://github.com/shumarb/designgurus/blob/main/grokking-system-design-fundamentals/readmes/load-balancing-algorithms-uses.md#high-availability-and-fault-tolerance) |
 | [Horizontal Scalability](https://github.com/shumarb/designgurus/blob/main/grokking-system-design-fundamentals/readmes/load-balancing-algorithms-uses.md#horizontal-scalability)                               |
 | [Zero-Downtime Deployments](https://github.com/shumarb/designgurus/blob/main/grokking-system-design-fundamentals/readmes/load-balancing-algorithms-uses.md#zero-downtime-deployments)                         |
-| [Security & Attack Mitigation](https://github.com/shumarb/designgurus/blob/main/grokking-system-design-fundamentals/readmes/load-balancing-algorithms-uses.md#security-&-attack-mitigation)                   |
+| [Security & Attack Mitigation](https://github.com/shumarb/designgurus/blob/main/grokking-system-design-fundamentals/readmes/load-balancing-algorithms-uses.md#security--attack-mitigation)                    |
 
 ## Uses
 ### High Availability and Fault Tolerance
@@ -38,7 +38,7 @@ This section explains the fundamental uses of Load Balancing (`LB`) algorithms.
 
 ### Security & Attack Mitigation
 - Known as `The Shield`. LBs ensure that application servers are secured from attacks.
-- LBs serve as `Reverse Proxy`, where the `client` interacts with the LB, which interacts with the `server`/
+- LBs serve as `Reverse Proxy`, where the `client` interacts with the LB, which interacts with the `server`.
 - LBs absorb `Distributed Denial of Service (DDoS)` attacks and filter malicious traffic before it touches application logic.
 - Example: Social Media Platform
   - Botnet targets the login page with a `SYN Flood Attack` (millions of fake connection requests) to crash your application's database.
