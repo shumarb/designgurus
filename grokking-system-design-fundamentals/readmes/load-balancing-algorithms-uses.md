@@ -9,6 +9,7 @@ This section explains the fundamental uses of Load Balancing (`LB`) algorithms.
 | [Horizontal Scalability](https://github.com/shumarb/designgurus/blob/main/grokking-system-design-fundamentals/readmes/load-balancing-algorithms-uses.md#horizontal-scalability)                               |
 | [Zero-Downtime Deployments](https://github.com/shumarb/designgurus/blob/main/grokking-system-design-fundamentals/readmes/load-balancing-algorithms-uses.md#zero-downtime-deployments)                         |
 | [Security & Attack Mitigation](https://github.com/shumarb/designgurus/blob/main/grokking-system-design-fundamentals/readmes/load-balancing-algorithms-uses.md#security--attack-mitigation)                    |
+| [SSL Termination](https://github.com/shumarb/designgurus/blob/main/grokking-system-design-fundamentals/readmes/load-balancing-algorithms-uses.md#ssl-termination)                                             |
 
 ## Uses
 ### High Availability and Fault Tolerance
@@ -44,3 +45,9 @@ This section explains the fundamental uses of Load Balancing (`LB`) algorithms.
   - Botnet targets the login page with a `SYN Flood Attack` (millions of fake connection requests) to crash your application's database.
   - You configure a `Cloud Load Balance` (e.g. Cloudflare) with `Web Applicaiton Firewall (WAF)` rules.
   - The LB detects abnormal traffic pattern. It drops these connections at the edge, ensuring backend servers see only valid traffic volumes and continue to process legitimate user logins.
+
+### SSL Termination
+- Known as `The Offloader`. A LB executes encryption to improve server efficiency.
+- Example: High-Frequency Trading Dashboard
+  - Servers hit 90% CPU usage, but code profiling shows that 30% of that is OpenSSL handling encryption overhead.
+  - `SSL` certificates are moved from the servers to the LB. Hence, the backend servers to no longer perform the decryption, greatly reducing the server's CPU usage.
