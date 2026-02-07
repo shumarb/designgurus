@@ -27,7 +27,7 @@ This section explains the fundamental uses of Load Balancing (`LB`) algorithms.
   - The LB serving as the UEP both registers and distributes requests across these new instances.
 
 ### Zero-Downtime Deployments
-- Known as `Blue-Green Meveuver`, the application's source code may have to be updated while users are using it.
+- Known as `Blue-Green Maneuver`, the application's source code may have to be updated while users are using it.
 - Developers signal the LB to stop sending new connections to a specific server while allowing existing connections to finish naturally, then take it offline for patching.
 - Example:
   - A Banking API will have a `Blue` pool (`current` version) and a `Green` pool (`new` version).
