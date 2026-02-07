@@ -9,7 +9,7 @@ This section explains the fundamental uses of Load Balancing (`LB`) algorithms.
 
 ## Uses
 ### High Availability and Fault Tolerance
-- Also known as `Survival Rule`, LBs are used when an application's server does not operate.
+- Also known as `Survival Rule`, LBs are used when one of an application's server does not operate.
 - LB does a `health check` on the servers by constantly pinging the servers to check that it is operating. The LB instantly cuts off servers that fail to answer or return an error, and reroutes to an operating server.
 - Example:
   - Uber has 50 API servers handling ride requests, when Server #4 suffers a memory leak and freezes.
