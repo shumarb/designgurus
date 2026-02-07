@@ -19,8 +19,8 @@ This section explains the fundamental uses of Load Balancing (`LB`) algorithms.
 
 ### Horizontal Scalability
 - Also known as 'Black Friday' defense.
-- Leverages on `Horizontal Scaling`, where a `LB` serves as a `Unified Entry Point` to distribute requests across new instances of `LB`s.
+- Leverages on `Horizontal Scaling`, where a `LB` serves as a `Unified Entry Point (UEP)` to distribute requests across new instances of `LB`s.
 - Example: 
   - An e-commerce site experiences 1000 requests per second (`RPS`), but on `Black Friday`, it spikes to 100,000 RPS.
-  - `Strategy`: The `Auto-Scaling Group` detects high CPU usage and boosts up 100 new `LB`s.
-  - `LB` both registers and distributes requests across these new instances.
+  - `Strategy`: The `Auto-Scaling Group` detects high CPU usage and boosts up 100 new LBs.
+  - The LB serving as the UEP both registers and distributes requests across these new instances.
