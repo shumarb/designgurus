@@ -6,6 +6,7 @@ This section explains the fundamental uses of Load Balancing (`LB`) algorithms.
 | Uses                                                                                                                                                                                                          |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [High Availability and Fault Tolerance](https://github.com/shumarb/designgurus/blob/main/grokking-system-design-fundamentals/readmes/load-balancing-algorithms-uses.md#high-availability-and-fault-tolerance) |
+| [Horizontal Scalability](https://github.com/shumarb/designgurus/blob/main/grokking-system-design-fundamentals/readmes/load-balancing-algorithms-uses.md#horizontak-scalability)                               |
 
 ## Uses
 ### High Availability and Fault Tolerance
@@ -15,3 +16,11 @@ This section explains the fundamental uses of Load Balancing (`LB`) algorithms.
   - Uber has 50 API servers handling ride requests, when Server #4 suffers a memory leak and freezes.
   - Without an LB: Users routed to Server #4 see an application error (e.g: spinning wheel), so they use a rival application, causing Uber to lose revenue.
   - With an LB: The LB removes Server #4 after it fails its health check (e.g: failed to return a 200 OK on a health check within 2 seconds), 100% of the traffic is spread across the remaining 49 servers, and the users do not notice the glitch.
+
+### Horizontal Scalability
+- Also known as 'Black Friday' defense.
+- Leverages on `Horizontal Scaling`, where a `LB` serves as a `Unified Entry Point` to distribute requests across new instances of `LB`s.
+- Example: 
+  - An e-commerce site experiences 1000 requests per second (`RPS`), but on `Black Friday`, it spikes to 100,000 RPS.
+  - `Strategy`: The `Auto-Scaling Group` detects high CPU usage and boosts up 100 new `LB`s.
+  - `LB` both registers and distributes requests across these new instances.
