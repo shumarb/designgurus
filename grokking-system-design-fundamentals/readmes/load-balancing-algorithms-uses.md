@@ -6,7 +6,7 @@ This section explains the fundamental uses of Load Balancing (`LB`) algorithms.
 | Uses                                                                                                                                                                                                          |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [High Availability and Fault Tolerance](https://github.com/shumarb/designgurus/blob/main/grokking-system-design-fundamentals/readmes/load-balancing-algorithms-uses.md#high-availability-and-fault-tolerance) |
-| [Horizontal Scalability](https://github.com/shumarb/designgurus/blob/main/grokking-system-design-fundamentals/readmes/load-balancing-algorithms-uses.md#horizontak-scalability)                               |
+| [Horizontal Scalability](https://github.com/shumarb/designgurus/blob/main/grokking-system-design-fundamentals/readmes/load-balancing-algorithms-uses.md#horizontal-scalability)                               |
 
 ## Uses
 ### High Availability and Fault Tolerance
