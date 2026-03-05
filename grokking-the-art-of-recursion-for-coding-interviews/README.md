@@ -1,7 +1,7 @@
 # Grokking the Art of Recursion for Coding Interviews
 
 ## Overview
-This folder contains my submissions for the [Grokking the Art of Recursion for Coding Interviews](https://www.designgurus.io/course/grokking-recursion-for-coding-interview) course, with some overlapping my [LeetCode](https://github.com/shumarb/leetcode) repository.
+This folder contains my submissions for the [Grokking the Art of Recursion for Coding Interviews](https://www.designgurus.io/course/grokking-recursion-for-coding-interview) course, which I [completed](https://github.com/shumarb/designgurus/blob/main/certificates/sheikh-umar-grokking-the-art-of-recursion-for-coding-interviews-certificate.pdf).
 
 (*Note*: Rank indicates the percentage of submissions that my code outperforms in terms of runtime.).
 
@@ -35,4 +35,4 @@ This folder contains my submissions for the [Grokking the Art of Recursion for C
 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/)             | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/FibonacciNumber.java) | 0ms     | 100% |
 | [Good Number](https://www.designgurus.io/course-play/grokking-recursion/doc/17-good-number) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/GoodNumber.java)      | -       | -    |
 | [Split BST](https://www.designgurus.io/course-play/grokking-recursion/doc/18-split-bst)     | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/SplitBST.java)        | -       | -    |
-| [Pow(x, n)](https://leetcode.com/problems/powx-n/description/)                              | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/PowXN.java)           | 0ms     | 100%   |
+| [Pow(x, n)](https://leetcode.com/problems/powx-n/description/)                              | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/PowXN.java)           | 0ms     | 100% |
