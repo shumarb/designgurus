@@ -34,3 +34,4 @@ This folder contains my submissions for the [Grokking the Art of Recursion for C
 |---------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|---------|------|
 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/)             | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/FibonacciNumber.java) | 0ms     | 100% |
 | [Good Number](https://www.designgurus.io/course-play/grokking-recursion/doc/17-good-number) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/GoodNumber.java)      | -       | -    |
+| [Split BST](https://www.designgurus.io/course-play/grokking-recursion/doc/18-split-bst)     | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/SplitBST.java)        | -       | -    |
