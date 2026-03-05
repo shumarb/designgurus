@@ -25,6 +25,7 @@ This folder contains my submissions for the [Grokking the Art of Recursion for C
 | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/InsertIntoABinarySearchTree.java)                                             | 0ms     | 100% |
 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/)       | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/BinaryTreeInorderTraversal.java)                                              | 0ms     | 100% |
 | [Merge Sort](https://www.designgurus.io/course-play/grokking-recursion/doc/12-merge-sort)                       | [Java](https://github.com/shumarb/designgurus/blob/main/grokking-the-art-of-recursion-for-coding-interviews/submissions/MergeSort.java)        | -       | -    |
+| [Quick Sort](https://www.designgurus.io/course-play/grokking-recursion/doc/13-quick-sort)                       | [Java](https://github.com/shumarb/designgurus/blob/main/grokking-the-art-of-recursion-for-coding-interviews/submissions/QuickSort.java)        | -       | -    |
 | [Depth First Search](https://www.designgurus.io/course-play/grokking-recursion/doc/14-depth-first-search)       | [Java](https://github.com/shumarb/designgurus/blob/main/grokking-the-art-of-recursion-for-coding-interviews/submissions/DepthFirstSearch.java) | -       | -    |
 
 ### Hard
