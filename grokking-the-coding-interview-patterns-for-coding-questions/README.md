@@ -9,10 +9,11 @@ Submissions are organised by the training plan, with most sourced from my [LeetC
 
 ## Submissions
 ### Warmup
-| Question                                                                           | Submission                                                                               | Runtime | Rank   |
-|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|---------|--------|
-| [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/ContainsDuplicate.java) | 10ms    | 88.34% |
-| [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)                        | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/SqrtX.java)             | 1ms     | 86%    |
+| Question                                                                                         | Submission                                                                                                                                    | Runtime | Rank   |
+|--------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|---------|--------|
+| [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description)               | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/ContainsDuplicate.java)                                                      | 10ms    | 88.34% |
+| [Pangram](https://www.designgurus.io/course-play/grokking-the-coding-interview/doc/pangram-easy) | [Java](https://github.com/shumarb/designgurus/tree/main/grokking-the-coding-interview-patterns-for-coding-questions/submissions/Pangram.java) | -       | -      |
+| [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)                                      | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/SqrtX.java)                                                                  | 1ms     | 86%    |
 
 ### Two Pointers
 | Question                                                      | Submission                                                                    | Runtime | Rank   |
