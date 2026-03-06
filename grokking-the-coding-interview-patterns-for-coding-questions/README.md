@@ -7,18 +7,7 @@ Submissions are organised by the training plan, with most sourced from my [LeetC
 
 (*Note*: Rank indicates the percentage of submissions that my code outperforms in terms of runtime.)
 
-| Pattern                                                                                                                                             |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Warmup](https://github.com/shumarb/designgurus/tree/main/grokking-the-coding-interview-patterns-for-coding-questions#warmup)                       |
-| [Two Pointers](https://github.com/shumarb/designgurus/tree/main/grokking-the-coding-interview-patterns-for-coding-questions#two-pointers)           |
-| [Stack](https://github.com/shumarb/designgurus/tree/main/grokking-the-coding-interview-patterns-for-coding-questions#stack)                         |
-| [HashMaps](https://github.com/shumarb/designgurus/tree/main/grokking-the-coding-interview-patterns-for-coding-questions#hashmaps)                   |
-| [Graphs](https://github.com/shumarb/designgurus/tree/main/grokking-the-coding-interview-patterns-for-coding-questions#graphs)                       |
-| [Greedy Algorithms](https://github.com/shumarb/designgurus/tree/main/grokking-the-coding-interview-patterns-for-coding-questions#greedy-algorithms) |
-| [Tries](https://github.com/shumarb/designgurus/tree/main/grokking-the-coding-interview-patterns-for-coding-questions#tries)                         |
-| [Miscellaneous](https://github.com/shumarb/designgurus/tree/main/grokking-the-coding-interview-patterns-for-coding-questions#miscelleneous)         |
-
-## Pattern
+## Submissions
 ### Warmup
 | Question                                                                                         | Submission                                                                                                                                    | Runtime | Rank   |
 |--------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|---------|--------|
