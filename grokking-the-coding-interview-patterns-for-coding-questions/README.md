@@ -66,7 +66,7 @@ Submissions are organised by the training plan, with most sourced from my [LeetC
 | [Extra Characters in a String](https://leetcode.com/problems/extra-characters-in-a-string/description/)                                           | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/ExtraCharactersInAString.java)                                                             | 46ms    | 87.58% | 
 | [Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/description/)                                                 | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/SearchSuggestionsSystem.java)                                                              | 38ms    | 36.75% |
 
-## Miscellaneous
+### Miscellaneous
 | Question                                                                                                                 | Submission                                                                                                                                              | Runtime | Rank   |
 |--------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|---------|--------|
 | [Kth Smallest Number](https://www.designgurus.io/course-play/grokking-the-coding-interview/doc/kth-smallest-number-hard) | [Java](https://github.com/shumarb/designgurus/tree/main/grokking-the-coding-interview-patterns-for-coding-questions/submissions/KthSmallestNumber.java) | -       | -      |
