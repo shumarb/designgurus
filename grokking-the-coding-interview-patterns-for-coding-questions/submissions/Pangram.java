@@ -7,10 +7,8 @@ class Pangram {
 
         for (char c: sentence.toCharArray()) {
             if (c >= 'A' && c <= 'Z' || c >= 'a' && c <= 'z') {
-                char upper = Character.toUpperCase(c);
-                char lower = Character.toLowerCase(c);
-                isPresent[upper - 'A'] = true;
-                isPresent[lower - 'a' + 26] = true;
+                isPresent[Character.toUpperCase(c) - 'A'] = true;
+                isPresent[Character.toLowerCase(c) - 'a' + 26] = true;
             }
         }
         if (isTest) {
