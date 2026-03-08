@@ -18,12 +18,15 @@ Submissions are organised by the training plan, with most sourced from my [LeetC
 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)                                                      | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/ValidAnagram.java)                                                                        | 1ms     | 99.65% |
 | [Shortest Word Distance](https://www.designgurus.io/course-play/grokking-the-coding-interview/doc/shortest-word-distance-easy) | [Java](https://github.com/shumarb/designgurus/tree/main/grokking-the-coding-interview-patterns-for-coding-questions/submissions/ShortestWordDistance.java) | -       | -      |
 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/description/)                                        | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/NumberOfGoodPairs.java)                                                                   | 0ms     | 100%   |
-| [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)                                                                    | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/SqrtX.java)                                                                               | 1ms     | 86%    |
+| [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)                                                                    | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/SqrtX.java)                                                                               | 1ms     | 97.33% |
 
 ### Two Pointers
 | Question                                                      | Submission                                                                    | Runtime | Rank   |
 |---------------------------------------------------------------|-------------------------------------------------------------------------------|---------|--------|
 | [Two Sum](https://leetcode.com/problems/two-sum/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/TwoSum.java) | 2ms     | 98.93% |
+| [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)                                       | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/RemoveDuplicatesFromSortedArray.java)                 | 0ms     | 100%   |
+| [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/description/)                                                                                   | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/SquaresOfASortedArray.java)                                        | 1ms     | 100%   |
+| [Sort Colors](https://leetcode.com/problems/sort-colors/description/)                                                                                                                           | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/SortColors.java)                                                  | 0ms     | 100%   |
 
 ### Stack
 | Question                                                                                                                                                                | Submission                                                                                                                                                        | Runtime | Rank   |
@@ -53,6 +56,16 @@ Submissions are organised by the training plan, with most sourced from my [LeetC
 | [Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/MinimumNumberOfVerticesToReachAllNodes.java) | 8ms     | 99.23% |
 | [Bus Routes](https://leetcode.com/problems/bus-routes/description/)                                                                       | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/BusRoutes.java)                              | 49ms    | 79.54% |
 
+### Two Heaps
+| Question                                                                                                                                  | Submission                                                                                                    | Runtime | Rank   |
+|-------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|---------|--------|
+| [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/description/)                   | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/MedianFinder.java)                      | 99ms    | 99.71% |
+
+### Top `K` Elements
+| Question                                                                                                                                  | Submission                                                                                                    | Runtime | Rank   |
+|-------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|---------|--------|
+| [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/)                                                                     | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/TopKFrequentElements.java)                               | 6ms     | 99.38% |
+
 ### Greedy Algorithms
 | Question                                                                                                                      | Submission                                                                                                | Runtime | Rank   |
 |-------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|---------|--------|
@@ -71,6 +84,16 @@ Submissions are organised by the training plan, with most sourced from my [LeetC
 | [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/description/)               | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/DesignAddAndSearchWordsDataStructure.java)                                                 | 162ms   | 95.96% | 
 | [Extra Characters in a String](https://leetcode.com/problems/extra-characters-in-a-string/description/)                                           | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/ExtraCharactersInAString.java)                                                             | 46ms    | 87.58% | 
 | [Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/description/)                                                 | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/SearchSuggestionsSystem.java)                                                              | 38ms    | 36.75% |
+
+### Union Find
+| Question                                                                                                                                          | Submission                                                                                                                                                  | Runtime | Rank   |
+|---------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|---------|--------|
+| [Number of Provinces](https://leetcode.com/problems/number-of-provinces/description/)                             | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/NumberOfProvinces.java)              | 1ms     | 88.24% |
+
+### Prefix Sum
+| Question                                                                                                                 | Submission                                                                                                                                              | Runtime | Rank   |
+|--------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|---------|--------|
+| [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/description/)                                                                         | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/LeftAndRightSumDifferences.java)                                   | 2ms     | 99.10% |
 
 ### Miscellaneous
 | Question                                                                                                                 | Submission                                                                                                                                              | Runtime | Rank   |
