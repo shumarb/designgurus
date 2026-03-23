@@ -33,6 +33,11 @@ Submissions are organised by the training plan, with most sourced from my [LeetC
 |---------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|---------|--------|
 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/MiddleOfTheLinkedList.java) | 0ms     | 100%   |
 
+### Sliding Windows
+| Question                                                                                                                                       | Submission                                                                                                                                                      | Runtime | Rank   |
+|------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|---------|--------|
+| [Maximum Sum Subarray of Size K](https://www.designgurus.io/course-play/grokking-the-coding-interview/doc/maximum-sum-subarray-of-size-k-easy) | [Java](https://github.com/shumarb/designgurus/tree/main/grokking-the-coding-interview-patterns-for-coding-questions/submissions/MaximumSumSubarrayOfSizeK.java) | -       | -      |
+
 ### Stack
 | Question                                                                                                                                                                | Submission                                                                                                                                                        | Runtime | Rank   |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------|--------|
@@ -83,6 +88,11 @@ Submissions are organised by the training plan, with most sourced from my [LeetC
 | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/description/)                               | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/RemoveDuplicateLetters.java)             | 2ms     | 94.48% |
 | [Largest Palindromic Number](https://leetcode.com/problems/largest-palindromic-number/description/)                           | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/LargestPalindromicNumber.java)           | 10ms    | 80.47% |
 | [Removing Minimum and Maximum From Array](https://leetcode.com/problems/removing-minimum-and-maximum-from-array/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/RemovingMinimumAndMaximumFromArray.java) | 2ms     | 100%   |
+
+### Fibonacci Numbers (Dynamic Programming)
+| Question                                                                        | Submission                                                                             | Runtime | Rank |
+|---------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|---------|------|
+| [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/FibonacciNumber.java) | 0ms     | 100% |
 
 ### Trie
 | Question                                                                                                                                          | Submission                                                                                                                                                  | Runtime | Rank   |
