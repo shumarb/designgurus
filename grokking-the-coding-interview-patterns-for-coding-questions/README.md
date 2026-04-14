@@ -72,7 +72,7 @@ Submissions are organised by the training plan, with most sourced from my [LeetC
 | [Flood Fill](https://leetcode.com/problems/flood-fill/description/)                             | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/FloodFill.java)             | 0ms     | 100%   |
 | [Number of Islands](https://leetcode.com/problems/number-of-islands/description/)               | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/NumberOfIslands.java)       | 2ms     | 99.93% |
 | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/)             | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/MaxAreaOfIsland.java)       | 1ms     | 100%   |
-| [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/NumberOfClosedIslands.java) | 3ms     | 45.33% |
+| [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/NumberOfClosedIslands.java) | 2ms     | 100%   |
 
 ### Two Heaps
 | Question                                                                                                                                 | Submission                                                                                                | Runtime | Rank   |
