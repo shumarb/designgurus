@@ -66,6 +66,13 @@ Submissions are organised by the training plan, with most sourced from my [LeetC
 | [Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/MinimumNumberOfVerticesToReachAllNodes.java) | 8ms     | 99.23% |
 | [Bus Routes](https://leetcode.com/problems/bus-routes/description/)                                                                       | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/BusRoutes.java)                              | 49ms    | 79.54% |
 
+### Island (Matrix Traversal)
+| Question                                                                            | Submission                                                                             | Runtime | Rank   |
+|-------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|---------|--------|
+| [Flood Fill](https://leetcode.com/problems/flood-fill/description/)                 | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/FloodFill.java)       | 0ms     | 100%   |
+| [Number of Islands](https://leetcode.com/problems/number-of-islands/description/)   | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/NumberOfIslands.java) | 2ms     | 99.93% |
+| [Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/MaxAreaOfIsland.java) | 1ms     | 100%   |
+
 ### Two Heaps
 | Question                                                                                                                                 | Submission                                                                                                | Runtime | Rank   |
 |------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|---------|--------|
