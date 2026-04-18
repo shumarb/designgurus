@@ -57,6 +57,12 @@ Submissions are organised by the training plan, with most sourced from my [LeetC
 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/description/)                                                                                     | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/LongestPalindrome.java)                                                                    | 2ms     | 89.66% |
 | [Ransom Note](https://leetcode.com/problems/ransom-note/description/)                                                                                                   | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/RansomNote.java)                                                                           | 1ms     | 99.14% |
 
+### Level Order Traversal
+| Question                                                                                                                | Submission                                                                                              | Runtime | Rank   |
+|-------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|---------|--------|
+| [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/BinaryTreeLevelOrderTraversalTwo.java) | 1ms     | 93.85% |
+
+
 ### Graph
 | Question                                                                                                                                  | Submission                                                                                                    | Runtime | Rank   |
 |-------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|---------|--------|
