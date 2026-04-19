@@ -58,10 +58,19 @@ Submissions are organised by the training plan, with most sourced from my [LeetC
 | [Ransom Note](https://leetcode.com/problems/ransom-note/description/)                                                                                                   | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/RansomNote.java)                                                                           | 1ms     | 99.14% |
 
 ### Level Order Traversal
-| Question                                                                                                                | Submission                                                                                              | Runtime | Rank   |
-|-------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|---------|--------|
-| [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/BinaryTreeLevelOrderTraversalTwo.java) | 1ms     | 93.85% |
+| Question                                                                                                                        | Submission                                                                                                 | Runtime | Rank   |
+|---------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|---------|--------|
+| [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/)         | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/BinaryTreeLevelOrderTraversalTwo.java)    | 1ms     | 93.85% |
+| [Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/description/)           | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/FindLargestValueInEachTreeRow.java)       | 2ms     | 88.73% |
+| [Binary Tree ZigZag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/BinaryTreeZigZagLevelOrderTraversal.java) | 1ms     | 69.75% |
 
+### Tree Breadth First Search
+| Question                                                                                                                        | Submission                                                                                                 | Runtime | Rank   |
+|---------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|---------|--------|
+| [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/)               | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/BinaryTreeLevelOrderTraversal.java)       | 1ms     | 89.68% |
+| [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/)         | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/BinaryTreeLevelOrderTraversalTwo.java)    | 1ms     | 93.85% |
+| [Binary Tree ZigZag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/BinaryTreeZigZagLevelOrderTraversal.java) | 1ms     | 69.75% |
+| [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/description/)                 | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/AverageOfLevelsInBinaryTree.java)         | 2ms     | 94.44% |
 
 ### Graph
 | Question                                                                                                                                  | Submission                                                                                                    | Runtime | Rank   |
