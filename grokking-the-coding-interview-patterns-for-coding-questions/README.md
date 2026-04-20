@@ -71,6 +71,7 @@ Submissions are organised by the training plan, with most sourced from my [LeetC
 | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/)         | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/BinaryTreeLevelOrderTraversalTwo.java)    | 1ms     | 93.85% |
 | [Binary Tree ZigZag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/BinaryTreeZigZagLevelOrderTraversal.java) | 1ms     | 69.75% |
 | [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/description/)                 | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/AverageOfLevelsInBinaryTree.java)         | 2ms     | 94.44% |
+| [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/)                         | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/MinimumDepthOfBinaryTree.java)            | 2ms     | 94.87% |
 
 ### Graph
 | Question                                                                                                                                  | Submission                                                                                                    | Runtime | Rank   |
