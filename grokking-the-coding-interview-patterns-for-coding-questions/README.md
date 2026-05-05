@@ -28,6 +28,11 @@ Submissions are organised by the training plan, with most sourced from my [LeetC
 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/description/)                     | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/SquaresOfASortedArray.java)           | 1ms     | 100%   |
 | [Sort Colors](https://leetcode.com/problems/sort-colors/description/)                                                 | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/SortColors.java)                      | 0ms     | 100%   |
 
+### Merge Intervals
+| Question                                                                      | Submission                                                                             | Runtime | Rank   |
+|-------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|---------|--------|
+| [Merge Intervals](https://leetcode.com/problems/merge-intervals/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/MergeIntervals.java)  | 7ms     | 98.89% |
+
 ### Fast & Slow Pointers
 | Question                                                                                          | Submission                                                                                   | Runtime | Rank   |
 |---------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|---------|--------|
@@ -116,6 +121,11 @@ Submissions are organised by the training plan, with most sourced from my [LeetC
 | [Largest Palindromic Number](https://leetcode.com/problems/largest-palindromic-number/description/)                           | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/LargestPalindromicNumber.java)           | 10ms    | 80.47% |
 | [Removing Minimum and Maximum From Array](https://leetcode.com/problems/removing-minimum-and-maximum-from-array/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/RemovingMinimumAndMaximumFromArray.java) | 2ms     | 100%   |
 
+### Backtracking
+| Question                                                                      | Submission                                                                            | Runtime | Rank   |
+|-------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|---------|--------|
+| [Combination Sum](https://leetcode.com/problems/combination-sum/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/CombinationSum.java) | 1ms     | 99.89% |
+
 ### Fibonacci Numbers (Dynamic Programming)
 | Question                                                                        | Submission                                                                             | Runtime | Rank |
 |---------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|---------|------|
@@ -136,6 +146,7 @@ Submissions are organised by the training plan, with most sourced from my [LeetC
 | [Topological Sort](https://www.designgurus.io/course-play/grokking-the-coding-interview/doc/topological-sort-medium) | [Java](https://github.com/shumarb/designgurus/tree/main/grokking-the-coding-interview-patterns-for-coding-questions/submissions/TopologicalSort.java) | -       | -      |
 | [Course Schedule](https://leetcode.com/problems/course-schedule/description/)                                        | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/CourseSchedule.java)                                                                 | 6ms     | 74.22% |
 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/description/)                                  | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/CourseScheduleTwo.java)                                                              | 4ms     | 93.45% |
+| [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/description/)                              | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/MinimumHeightTrees.java)                                                             | 14ms    | 98.84% |
 
 ### Union Find
 | Question                                                                              | Submission                                                                               | Runtime | Rank   |
