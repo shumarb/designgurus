@@ -140,6 +140,11 @@ Submissions are organised by the training plan, with most sourced from my [LeetC
 | [Extra Characters in a String](https://leetcode.com/problems/extra-characters-in-a-string/description/)                                           | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/ExtraCharactersInAString.java)                                                             | 46ms    | 87.58% | 
 | [Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/description/)                                                 | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/SearchSuggestionsSystem.java)                                                              | 38ms    | 36.75% |
 
+### Counting
+| Question                                                                                                                  | Submission                                                                                               | Runtime | Rank |
+|---------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|---------|------|
+| [Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/CountElementsWithMaximumFrequency.java) | 0ms     | 100% |
+
 ### Topological Sort
 | Question                                                                                                             | Submission                                                                                                                                            | Runtime | Rank   |
 |----------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|---------|--------|
@@ -148,15 +153,15 @@ Submissions are organised by the training plan, with most sourced from my [LeetC
 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/description/)                                  | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/CourseScheduleTwo.java)                                                              | 4ms     | 93.45% |
 | [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/description/)                              | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/MinimumHeightTrees.java)                                                             | 14ms    | 98.84% |
 
-### Ordered Set
-| Question                                                                              | Submission                                                                               | Runtime | Rank |
-|---------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|---------|------|
-| [Merge Similar Items](https://leetcode.com/problems/merge-similar-items/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/MergeSimilarItems.java) | 2ms     | 100% |
-
 ### Union Find
 | Question                                                                              | Submission                                                                               | Runtime | Rank   |
 |---------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|---------|--------|
 | [Number of Provinces](https://leetcode.com/problems/number-of-provinces/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/NumberOfProvinces.java) | 1ms     | 88.24% |
+
+### Ordered Set
+| Question                                                                              | Submission                                                                               | Runtime | Rank |
+|---------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|---------|------|
+| [Merge Similar Items](https://leetcode.com/problems/merge-similar-items/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/MergeSimilarItems.java) | 2ms     | 100% |
 
 ### Prefix Sum
 | Question                                                                                                    | Submission                                                                                        | Runtime | Rank   |
