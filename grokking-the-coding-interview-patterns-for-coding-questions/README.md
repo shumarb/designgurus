@@ -68,6 +68,8 @@ Submissions are organised by the training plan, with most sourced from my [LeetC
 | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/)         | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/BinaryTreeLevelOrderTraversalTwo.java)    | 1ms     | 93.85% |
 | [Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/description/)           | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/FindLargestValueInEachTreeRow.java)       | 2ms     | 88.73% |
 | [Binary Tree ZigZag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/BinaryTreeZigZagLevelOrderTraversal.java) | 1ms     | 69.75% |
+| [Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/description/)             | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/MaximumLevelSumOfABinaryTree.java)        | 8ms     | 95.04% |
+| [Even Odd Tree](https://leetcode.com/problems/even-odd-tree/description/)                                                       | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/EvenOddTree.java)                         | 10ms    | 88.87% |
 
 ### Tree Breadth First Search
 | Question                                                                                                                        | Submission                                                                                                 | Runtime | Rank   |
@@ -144,6 +146,7 @@ Submissions are organised by the training plan, with most sourced from my [LeetC
 | Question                                                                                                                  | Submission                                                                                               | Runtime | Rank |
 |---------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|---------|------|
 | [Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/CountElementsWithMaximumFrequency.java) | 0ms     | 100% |
+| [Maximum Population Year](https://leetcode.com/problems/maximum-population-year/description/)                             | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/MaximumPopulationYear.java)             | 2ms     | 36.37% |
 
 ### Topological Sort
 | Question                                                                                                             | Submission                                                                                                                                            | Runtime | Rank   |
