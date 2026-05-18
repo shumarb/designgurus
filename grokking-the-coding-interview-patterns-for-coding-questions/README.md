@@ -29,9 +29,10 @@ Submissions are organised by the training plan, with most sourced from my [LeetC
 | [Sort Colors](https://leetcode.com/problems/sort-colors/description/)                                                 | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/SortColors.java)                      | 0ms     | 100%   |
 
 ### Merge Intervals
-| Question                                                                      | Submission                                                                             | Runtime | Rank   |
-|-------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|---------|--------|
-| [Merge Intervals](https://leetcode.com/problems/merge-intervals/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/MergeIntervals.java)  | 7ms     | 98.89% |
+| Question                                                                      | Submission                                                                            | Runtime | Rank   |
+|-------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|---------|--------|
+| [Merge Intervals](https://leetcode.com/problems/merge-intervals/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/MergeIntervals.java) | 7ms     | 98.89% |
+| [Insert Interval](https://leetcode.com/problems/insert-interval/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/InsertInterval.java) | 2ms     | 26.99% | Interval        |
 
 ### Fast & Slow Pointers
 | Question                                                                                          | Submission                                                                                   | Runtime | Rank   |
@@ -70,6 +71,7 @@ Submissions are organised by the training plan, with most sourced from my [LeetC
 | [Binary Tree ZigZag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/BinaryTreeZigZagLevelOrderTraversal.java) | 1ms     | 69.75% |
 | [Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/description/)             | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/MaximumLevelSumOfABinaryTree.java)        | 8ms     | 95.04% |
 | [Even Odd Tree](https://leetcode.com/problems/even-odd-tree/description/)                                                       | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/EvenOddTree.java)                         | 10ms    | 88.87% |
+| [N-Ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/description/)                 | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/NAryTreeLevelOrderTraversal.java)         | 3ms     | 92.23% |
 
 ### Tree Breadth First Search
 | Question                                                                                                                        | Submission                                                                                                 | Runtime | Rank   |
@@ -79,6 +81,7 @@ Submissions are organised by the training plan, with most sourced from my [LeetC
 | [Binary Tree ZigZag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/BinaryTreeZigZagLevelOrderTraversal.java) | 1ms     | 69.75% |
 | [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/description/)                 | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/AverageOfLevelsInBinaryTree.java)         | 2ms     | 94.44% |
 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/)                         | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/MinimumDepthOfBinaryTree.java)            | 2ms     | 94.87% |
+| [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/description/)                           | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/BinaryTreeRightSideView.java)             | 1ms     | 71.44% |
 
 ### Graph
 | Question                                                                                                                                  | Submission                                                                                                    | Runtime | Rank   |
@@ -146,7 +149,7 @@ Submissions are organised by the training plan, with most sourced from my [LeetC
 | Question                                                                                                                  | Submission                                                                                               | Runtime | Rank |
 |---------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|---------|------|
 | [Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/CountElementsWithMaximumFrequency.java) | 0ms     | 100% |
-| [Maximum Population Year](https://leetcode.com/problems/maximum-population-year/description/)                             | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/MaximumPopulationYear.java)             | 2ms     | 36.37% |
+| [Maximum Population Year](https://leetcode.com/problems/maximum-population-year/description/)                             | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/MaximumPopulationYear.java)             | 0ms     | 100% |
 
 ### Topological Sort
 | Question                                                                                                             | Submission                                                                                                                                            | Runtime | Rank   |
