@@ -4,14 +4,15 @@ import java.util.*;
 
 class ReconstructingASequence {
     public boolean canConstruct(int[] originalSeq, int[][] sequences) {
-        List<Integer> list = new ArrayList<>();
         List<Integer>[] graph;
         Queue<Integer> queue = new LinkedList<>();
         boolean isTest = false;
         int[] inDegree;
+        int[] order = new int[originalSeq.length];
         int index = 0;
         int largest = 0;
         int level = 0;
+        int n = originalSeq.length;
 
         for (int e: originalSeq) {
             largest = Math.max(e, largest);
@@ -58,7 +59,10 @@ class ReconstructingASequence {
 
             while (size-- > 0) {
                 int source = queue.poll();
-                list.add(source);
+                if (index == n) {
+                    return false;
+                }
+                order[index++] = source;
                 for (int destination: graph[source]) {
                     if (--inDegree[destination] == 0) {
                         queue.offer(destination);
@@ -69,18 +73,9 @@ class ReconstructingASequence {
             level++;
         }
         if (isTest) {
-            System.out.println("---------------------------------------\nlist: " + list);
+            System.out.println("---------------------------------------\norder: " + Arrays.toString(order));
         }
 
-        if (list.size() != originalSeq.length) {
-            return false;
-        }
-        for (int i = 0; i < list.size(); i++) {
-            if (list.get(i) != originalSeq[i]) {
-                return false;
-            }
-        }
-
-        return true;
+        return Arrays.equals(order, originalSeq);
     }
 }
