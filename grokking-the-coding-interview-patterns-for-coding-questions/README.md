@@ -18,7 +18,7 @@ Submissions are organised by the training plan, with most sourced from my [LeetC
 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)                                                      | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/ValidAnagram.java)                                                                        | 1ms     | 99.65%  |
 | [Shortest Word Distance](https://www.designgurus.io/course-play/grokking-the-coding-interview/doc/shortest-word-distance-easy) | [Java](https://github.com/shumarb/designgurus/tree/main/grokking-the-coding-interview-patterns-for-coding-questions/submissions/ShortestWordDistance.java) | -       | -       |
 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/description/)                                        | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/NumberOfGoodPairs.java)                                                                   | 0ms     | 100.00% |
-| [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)                                                                    | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/SqrtX.java)                                                                               | 1ms     | 97.33%  |
+| [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)                                                                    | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/SqrtX.java)                                                                               | 1ms     | 98.92%  |
 
 ### Two Pointers
 | Question                                                                                                              | Submission                                                                                             | Runtime | Rank    |
@@ -94,6 +94,11 @@ Submissions are organised by the training plan, with most sourced from my [LeetC
 | [Find Eventual Safe States](https://leetcode.com/problems/ind-eventual-safe-states/description/)                                          | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/FindEventualSafeStates.java)                 | 3ms     | 99.90% |
 | [Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/MinimumNumberOfVerticesToReachAllNodes.java) | 8ms     | 99.23% |
 | [Bus Routes](https://leetcode.com/problems/bus-routes/description/)                                                                       | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/BusRoutes.java)                              | 49ms    | 79.54% |
+
+### Tree Depth First Search
+| Question                                                        | Submission                                                                     | Runtime | Rank    |
+|-----------------------------------------------------------------|--------------------------------------------------------------------------------|---------|---------|
+| [Path Sum](https://leetcode.com/problems/path-sum/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/PathSum.java) | 0ms     | 100.00% |
 
 ### Island (Matrix Traversal)
 | Question                                                                                                                                              | Submission                                                                                                                                                                    | Runtime | Rank    |
