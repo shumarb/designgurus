@@ -86,6 +86,11 @@ Submissions are organised by the training plan, with most sourced from my [LeetC
 | [Connect All Level Order Siblings](https://www.designgurus.io/course-play/grokking-the-coding-interview/doc/problem-challenge-1-connect-all-level-order-siblings-medium) | [Java](https://github.com/shumarb/designgurus/tree/main/grokking-the-coding-interview-patterns-for-coding-questions/submissions/ConnectAllLevelOrderSiblings.java) | -       | -      |
 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/description/)                                                                    | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/BinaryTreeRightSideView.java)                                                                     | 1ms     | 71.44% |
 
+### Tree Depth First Search
+| Question                                                        | Submission                                                                     | Runtime | Rank    |
+|-----------------------------------------------------------------|--------------------------------------------------------------------------------|---------|---------|
+| [Path Sum](https://leetcode.com/problems/path-sum/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/PathSum.java) | 0ms     | 100.00% |
+
 ### Graph
 | Question                                                                                                                                  | Submission                                                                                                    | Runtime | Rank   |
 |-------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|---------|--------|
@@ -94,11 +99,6 @@ Submissions are organised by the training plan, with most sourced from my [LeetC
 | [Find Eventual Safe States](https://leetcode.com/problems/ind-eventual-safe-states/description/)                                          | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/FindEventualSafeStates.java)                 | 3ms     | 99.90% |
 | [Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/MinimumNumberOfVerticesToReachAllNodes.java) | 8ms     | 99.23% |
 | [Bus Routes](https://leetcode.com/problems/bus-routes/description/)                                                                       | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/BusRoutes.java)                              | 49ms    | 79.54% |
-
-### Tree Depth First Search
-| Question                                                        | Submission                                                                     | Runtime | Rank    |
-|-----------------------------------------------------------------|--------------------------------------------------------------------------------|---------|---------|
-| [Path Sum](https://leetcode.com/problems/path-sum/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/PathSum.java) | 0ms     | 100.00% |
 
 ### Island (Matrix Traversal)
 | Question                                                                                                                                              | Submission                                                                                                                                                                    | Runtime | Rank    |
@@ -183,6 +183,16 @@ Submissions are organised by the training plan, with most sourced from my [LeetC
 | Question                                                                                                    | Submission                                                                                        | Runtime | Rank   |
 |-------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|---------|--------|
 | [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/LeftAndRightSumDifferences.java) | 2ms     | 99.10% |
+
+### Simulation Pattern
+| Question                                                                                                | Submission                                                                                      | Runtime | Rank   |
+|---------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|---------|--------|
+| [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/RemovingStarsFromAString.java) | 26ms    | 92.79%  |
+
+### Linear Sorting Algorithm Pattern (Easy)
+| Question                                                                                                | Submission                                                                                       | Runtime | Rank   |
+|---------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|---------|--------|
+| [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/SortCharactersByFrequency.java) | 8ms     | 90.66%  |
 
 ### Miscellaneous
 | Question                                                                                                                 | Submission                                                                                                                                              | Runtime | Rank   |
