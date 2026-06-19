@@ -1,0 +1,8 @@
+# Grokking System Design Fundamentals
+
+## Overview
+This folder contains my summary of these concepts taught in the [Grokking System Design Fundamentals](https://www.designgurus.io/course/grokking-system-design-fundamentals) course.
+
+| Concepts                                                                                     |
+|----------------------------------------------------------------------------------------------|
+| [Load Balancing](https://github.com/shumarb/designgurus/tree/main/readmes/load-balancing.md) |

@@ -11,9 +11,9 @@ This repository contains my submissions for these [Design Gurus](https://www.des
 | [Grokking the Coding Interview: Patterns for Coding Questions](https://github.com/shumarb/designgurus/tree/main/readmes/patterns-for-coding-questions.md)                       | Ongoing                                                                                                                                                              |
 
 ### System Design
-| Course                                                                                                                      | Status  |
-|-----------------------------------------------------------------------------------------------------------------------------|---------|
-| [Grokking System Design Fundamentals](https://github.com/shumarb/designgurus/blob/main/grokking-system-design-fundamentals) | Ongoing |
+| Course                                                                                                                        | Status  |
+|-------------------------------------------------------------------------------------------------------------------------------|---------|
+| [Grokking System Design Fundamentals](https://github.com/shumarb/designgurus/tree/main/readmes/system-design-fundamentals.md) | Ongoing |
 
 ### Resources
 | Resource                                                                      |
