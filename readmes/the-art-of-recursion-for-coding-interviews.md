@@ -1,0 +1,38 @@
+# Grokking the Art of Recursion for Coding Interviews
+
+## Overview
+This folder contains my submissions for the [Grokking the Art of Recursion for Coding Interviews](https://www.designgurus.io/course/grokking-recursion-for-coding-interview) course, which I [completed](https://github.com/shumarb/designgurus/blob/main/certificates/sheikh-umar-grokking-the-art-of-recursion-for-coding-interviews-certificate.pdf).
+
+(*Note*: Rank indicates the percentage of submissions that my code outperforms in terms of runtime.).
+
+## Submissions
+### Easy
+| Question                                                                                                                  | Submission                                                                                          | Runtime | Rank |
+|---------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|---------|------|
+| [Basic Sum](https://www.designgurus.io/course-play/grokking-recursion/doc/1-basic-sum)                                    | [Java](https://github.com/shumarb/designgurus/tree/main/submissions/BasicSum.java)                  | -       | -    |
+| [Factorial](https://www.designgurus.io/course-play/grokking-recursion/doc/2-factorial)                                    | [Java](https://github.com/shumarb/designgurus/tree/main/submissions/Factorial.java)                 | -       | -    |
+| [Greatest Common Divisor](https://www.designgurus.io/course-play/grokking-recursion/doc/3-greatest-common-divisor-gcd)    | [Java](https://github.com/shumarb/designgurus/tree/main/submissions/GreatestCommonDivisor.java)     | -       | -    |
+| [Convert Decimal to Binary](https://www.designgurus.io/course-play/grokking-recursion/doc/4-converting-decimal-to-binary) | [Java](https://github.com/shumarb/designgurus/tree/main/submissions/ConvertingDecimalToBinary.java) | -       | -    |
+| [Check Prime](https://www.designgurus.io/course-play/grokking-recursion/doc/5-check-prime)                                | [Java](https://github.com/shumarb/designgurus/tree/main/submissions/CheckPrime.java)                | -       | -    |
+| [Perfect Square](https://www.designgurus.io/course-play/grokking-recursion/doc/6-perfect-square)                          | [Java](https://github.com/shumarb/designgurus/tree/main/submissions/PerfectSquare.java)             | -       | -    |
+| [Number Frequency](https://www.designgurus.io/course-play/grokking-recursion/doc/7-number-frequency)                      | [Java](https://github.com/shumarb/designgurus/tree/main/submissions/NumberFrequency.java)           | -       | -    |
+
+### Medium
+| Question                                                                                                                            | Submission                                                                                               | Runtime | Rank    |
+|-------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|---------|---------|
+| [Pascal's Triangle](https://www.designgurus.io/course-play/grokking-recursion/doc/8-pascals-triangle)                               | [Java](https://github.com/shumarb/designgurus/tree/main/submissions/PascalsTriangle.java)                | -       | -       |
+| [Binary Search](https://www.designgurus.io/course-play/grokking-recursion/doc/9-binary-search)                                      | [Java](https://github.com/shumarb/designgurus/tree/main/submissions/BinarySearch.java)                   | -       | -       |
+| [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/description/)                     | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/InsertIntoABinarySearchTree.java)       | 0ms     | 100.00% |
+| [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/)                           | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/BinaryTreeInorderTraversal.java)        | 0ms     | 100.00% |
+| [Merge Sort](https://www.designgurus.io/course-play/grokking-recursion/doc/12-merge-sort)                                           | [Java](https://github.com/shumarb/designgurus/tree/main/submissions/MergeSort.java)                      | -       | -       |
+| [Quick Sort](https://www.designgurus.io/course-play/grokking-recursion/doc/13-quick-sort)                                           | [Java](https://github.com/shumarb/designgurus/tree/main/submissions/QuickSort.java)                      | -       | -       |
+| [Depth First Search](https://www.designgurus.io/course-play/grokking-recursion/doc/14-depth-first-search)                           | [Java](https://github.com/shumarb/designgurus/tree/main/submissions/DepthFirstSearch.java)               | -       | -       |
+| [Removing Nodes From Linked List](https://www.designgurus.io/course-play/grokking-recursion/doc/15-removing-nodes-from-linked-list) | [Java](https://github.com/shumarb/designgurus/tree/main/submissions/RemovingNodesFromLinkedList.java)    | -       | -       |
+
+### Hard
+| Question                                                                                    | Submission                                                                             | Runtime | Rank    |
+|---------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|---------|---------|
+| [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/)             | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/FibonacciNumber.java) | 0ms     | 100.00% |
+| [Good Number](https://www.designgurus.io/course-play/grokking-recursion/doc/17-good-number) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/GoodNumber.java)      | -       | -       |
+| [Split BST](https://www.designgurus.io/course-play/grokking-recursion/doc/18-split-bst)     | [Java](https://github.com/shumarb/designgurus/tree/main/submissions/SplitBST.java)     | -       | -       |
+| [Pow(x, n)](https://leetcode.com/problems/powx-n/description/)                              | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/PowXN.java)           | 0ms     | 100.00% |
