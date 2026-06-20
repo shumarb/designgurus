@@ -41,9 +41,11 @@ Submissions are organised by the training plan, with most sourced from my [LeetC
 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/MiddleOfTheLinkedList.java) | 0ms     | 100.00% |
 
 ### Sliding Windows
-| Question                                                                                                                                       | Submission                                                                                                                                                      | Runtime | Rank   |
-|------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|---------|--------|
-| [Maximum Sum Subarray of Size K](https://www.designgurus.io/course-play/grokking-the-coding-interview/doc/maximum-sum-subarray-of-size-k-easy) | [Java](https://github.com/shumarb/designgurus/tree/main/grokking-the-coding-interview-patterns-for-coding-questions/submissions/MaximumSumSubarrayOfSizeK.java) | -       | -      |
+| Question                                                                                                                                                                     | Submission                                                                                                        | Runtime | Rank   |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|---------|--------|
+| [Maximum Sum of Distinct Subarrays With Length K](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/description/)                                | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/MaximumSumOfDistinctSubarraysWithLengthK.java)   | 4ms     | 99.82% |
+| [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/)                                                                            | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/MinimumSizeSubarraySum.java)                     | 1ms     | 99.93% |
+| [Longest Substring with K Distinct Characters](https://www.designgurus.io/course-play/grokking-the-coding-interview/doc/longest-substring-with-k-distinct-characters-medium) | [Java](https://github.com/shumarb/designgurus/tree/main/submissions/LongestSubstringWithKDistinctCharacters.java) | 151ms   | 83.10% |
 
 ### Stack
 | Question                                                                                                                                                                | Submission                                                                                          | Runtime | Rank   |
@@ -145,6 +147,7 @@ Submissions are organised by the training plan, with most sourced from my [LeetC
 | Question                                                                        | Submission                                                                             | Runtime | Rank    |
 |---------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|---------|---------|
 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/FibonacciNumber.java) | 0ms     | 100.00% |
+| [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)   | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/ClimbingStairs.java)  | 0ms     | 100.00% |
 
 ### Trie
 | Question                                                                                                                                          | Submission                                                                                                  | Runtime | Rank   |
