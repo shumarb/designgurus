@@ -43,9 +43,10 @@ Submissions are organised by the training plan, with most sourced from my [LeetC
 ### Sliding Windows
 | Question                                                                                                                                                                     | Submission                                                                                                        | Runtime | Rank   |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|---------|--------|
-| [Maximum Sum of Distinct Subarrays With Length K](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/description/)                                | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/MaximumSumOfDistinctSubarraysWithLengthK.java)   | 4ms     | 99.82% |
+| [Maximum Sum of Distinct Subarrays With Length K](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/description/)                                | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/MaximumSumOfDistinctSubarraysWithLengthK.java)   | 7ms     | 99.33% |
 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/)                                                                            | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/MinimumSizeSubarraySum.java)                     | 1ms     | 99.93% |
 | [Longest Substring with K Distinct Characters](https://www.designgurus.io/course-play/grokking-the-coding-interview/doc/longest-substring-with-k-distinct-characters-medium) | [Java](https://github.com/shumarb/designgurus/tree/main/submissions/LongestSubstringWithKDistinctCharacters.java) | 151ms   | 83.10% |
+| [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/description/)                                                                                          | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/FruitIntoBaskets.java)                           | 9ms     | 93.80% |
 
 ### Stack
 | Question                                                                                                                                                                | Submission                                                                                          | Runtime | Rank   |
@@ -56,6 +57,12 @@ Submissions are organised by the training plan, with most sourced from my [LeetC
 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/description/)                                                                             | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/NextGreaterElementOne.java)        | 3ms     | 92.50% |
 | [Sorting a Stack](https://www.designgurus.io/course-play/grokking-data-structures-for-coding-interviews/doc/problem-5-sorting-a-stack-easy)                             | [Java](https://github.com/shumarb/designgurus/tree/main/submissions/SortingAStack.java)             | -       | -      |
 | [Simplify Path](https://leetcode.com/problems/simplify-path/description/)                                                                                               | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/SimplifyPath.java)                 | 5ms     | 51.87% |
+
+### Monotonic Stack
+| Question                                                                                    | Submission                                                                                 | Runtime | Rank   |
+|---------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|---------|--------|
+| [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/NextGreaterElementI.java) | 3ms     | 92.81% |
+| [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/)         | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/DailyTemperatures.java)   | 77ms    | 24.69% |
 
 ### HashMaps
 | Question                                                                                                                                                               | Submission                                                                                           | Runtime | Rank   |
