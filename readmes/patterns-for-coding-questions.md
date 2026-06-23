@@ -47,6 +47,7 @@ Submissions are organised by the training plan, with most sourced from my [LeetC
 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/)                                                                            | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/MinimumSizeSubarraySum.java)                     | 1ms     | 99.93% |
 | [Longest Substring with K Distinct Characters](https://www.designgurus.io/course-play/grokking-the-coding-interview/doc/longest-substring-with-k-distinct-characters-medium) | [Java](https://github.com/shumarb/designgurus/tree/main/submissions/LongestSubstringWithKDistinctCharacters.java) | 151ms   | 83.10% |
 | [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/description/)                                                                                          | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/FruitIntoBaskets.java)                           | 9ms     | 93.80% |
+| [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/description/)                                                                              | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/MaxConsecutiveOnesIII.java)                      | 3ms     | 96.78% |
 
 ### Stack
 | Question                                                                                                                                                                | Submission                                                                                          | Runtime | Rank   |
@@ -59,10 +60,11 @@ Submissions are organised by the training plan, with most sourced from my [LeetC
 | [Simplify Path](https://leetcode.com/problems/simplify-path/description/)                                                                                               | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/SimplifyPath.java)                 | 5ms     | 51.87% |
 
 ### Monotonic Stack
-| Question                                                                                    | Submission                                                                                 | Runtime | Rank   |
-|---------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|---------|--------|
-| [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/NextGreaterElementI.java) | 3ms     | 92.81% |
-| [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/)         | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/DailyTemperatures.java)   | 77ms    | 24.69% |
+| Question                                                                                                                        | Submission                                                                                                 | Runtime | Rank   |
+|---------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|---------|--------|
+| [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/description/)                                     | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/NextGreaterElementI.java)                 | 3ms     | 92.81% |
+| [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/)                                             | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/DailyTemperatures.java)                   | 77ms    | 24.69% |
+| [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/RemoveAllAdjacentDuplicatesInString.java) | 11ms    | 89.28% |
 
 ### HashMaps
 | Question                                                                                                                                                               | Submission                                                                                           | Runtime | Rank   |
@@ -155,6 +157,7 @@ Submissions are organised by the training plan, with most sourced from my [LeetC
 |---------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|---------|---------|
 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/FibonacciNumber.java) | 0ms     | 100.00% |
 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)   | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/ClimbingStairs.java)  | 0ms     | 100.00% |
+| [Jump Game II](https://leetcode.com/problems/jump-game-ii/description/)         | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/JumpGameII.java)      | 36ms    | 14.95%  |
 
 ### Trie
 | Question                                                                                                                                          | Submission                                                                                                  | Runtime | Rank   |
