@@ -39,6 +39,7 @@ Submissions are organised by the training plan, with most sourced from my [LeetC
 | Question                                                                                          | Submission                                                                                   | Runtime | Rank    |
 |---------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|---------|---------|
 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/MiddleOfTheLinkedList.java) | 0ms     | 100.00% |
+| [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/)       | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/PalindromeLinkedList.java)  | 4ms     | 66.58%  |
 
 ### Sliding Windows
 | Question                                                                                                                                                                     | Submission                                                                                                        | Runtime | Rank   |
@@ -52,6 +53,7 @@ Submissions are organised by the training plan, with most sourced from my [LeetC
 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/)                                                                              | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/MinimumWindowSubstring.java)                     | 14ms    | 62.14% |
 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/description/)                                                                                    | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/PermutationInString.java)                        | 4ms     | 99.74% |
 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/description/)                                                                    | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/FindAllAnagramsInAString.java)                   | 8ms     | 95.38% |
+| [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/)                                            | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/SubarraysWithKDifferentIntegers.java)            | 2857ms  | 5.01%  |
 
 ### Stack
 | Question                                                                                                                                                                | Submission                                                                                          | Runtime | Rank   |
@@ -215,7 +217,7 @@ Submissions are organised by the training plan, with most sourced from my [LeetC
 ### Linear Sorting Algorithm Pattern (Easy)
 | Question                                                                                                | Submission                                                                                       | Runtime | Rank   |
 |---------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|---------|--------|
-| [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/SortCharactersByFrequency.java) | 8ms     | 90.66%  |
+| [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/SortCharactersByFrequency.java) | 8ms     | 90.66% |
 
 ### Miscellaneous
 | Question                                                                                                                 | Submission                                                                                                                                              | Runtime | Rank   |
@@ -223,8 +225,8 @@ Submissions are organised by the training plan, with most sourced from my [LeetC
 | [Kth Smallest Number](https://www.designgurus.io/course-play/grokking-the-coding-interview/doc/kth-smallest-number-hard) | [Java](https://github.com/shumarb/designgurus/tree/main/grokking-the-coding-interview-patterns-for-coding-questions/submissions/KthSmallestNumber.java) | -       | -      |
 
 ### Test Your Knowledge (Medium)
-| Question                                                                                                                                     | Submission                                                                                                                                             | Runtime | Rank   |
-|----------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|---------|--------|
-| [Meeting Rooms II](https://www.designgurus.io/course-play/grokking-data-structures-for-coding-interviews/doc/problem-5-sorting-a-stack-easy) | [Java](https://github.com/shumarb/designgurus/tree/main/submissions/MeetingRoomsII.java) | -       | -       |
-| [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/description/)                                        | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/Trie.java)                                                                            | 33ms    | 85.89% | 
-| [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/description/)          | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/WordDictionary.java)                                                                  | 162ms   | 94.15% | 
+| Question                                                                                                                                     | Submission                                                                               | Runtime | Rank   |
+|----------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|---------|--------|
+| [Meeting Rooms II](https://www.designgurus.io/course-play/grokking-data-structures-for-coding-interviews/doc/problem-5-sorting-a-stack-easy) | [Java](https://github.com/shumarb/designgurus/tree/main/submissions/MeetingRoomsII.java) | -       | -      |
+| [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/description/)                                        | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/Trie.java)              | 33ms    | 85.89% | 
+| [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/description/)          | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/WordDictionary.java)    | 162ms   | 94.15% | 
