@@ -38,6 +38,7 @@ Submissions are organised by the training plan, with most sourced from my [LeetC
 ### Fast & Slow Pointers
 | Question                                                                                          | Submission                                                                                   | Runtime | Rank    |
 |---------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|---------|---------|
+| [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)                 | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/LinkedListCycle.java)       | 0ms     | 100.00% |
 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/MiddleOfTheLinkedList.java) | 0ms     | 100.00% |
 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/)       | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/PalindromeLinkedList.java)  | 4ms     | 66.58%  |
 
@@ -53,7 +54,7 @@ Submissions are organised by the training plan, with most sourced from my [LeetC
 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/)                                                                                            | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/MinimumWindowSubstring.java)                     | 14ms    | 62.14% |
 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/description/)                                                                                                  | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/PermutationInString.java)                        | 4ms     | 99.74% |
 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/description/)                                                                                  | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/FindAllAnagramsInAString.java)                   | 8ms     | 95.38% |
-| [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/)                                                          | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/SubarraysWithKDifferentIntegers.java)            | 2628ms  | 5.01%  |
+| [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/)                                                          | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/SubarraysWithKDifferentIntegers.java)            | 2657ms  | 5.03%  |
 | [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/description/)                                                                                    | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/SubarrayProductLessThanK.java)                   | 3ms     | 99.36% |
 | [Subarrays with Product Less than a Target](https://www.designgurus.io/course-play/grokking-the-coding-interview/doc/problem-challenge-6-subarrays-with-product-less-than-a-target-medium) | [Java](https://github.com/shumarb/designgurus/tree/main/submissions/SubarraysWithProductLessThanATarget.java)     | -       | -      |
 
@@ -220,6 +221,7 @@ Submissions are organised by the training plan, with most sourced from my [LeetC
 | Question                                                                                                | Submission                                                                                       | Runtime | Rank   |
 |---------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|---------|--------|
 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/SortCharactersByFrequency.java) | 8ms     | 90.66% |
+| [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/description/)                 | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/TopKFrequentWords.java)         | 6ms     | 99.76% |
 
 ### Miscellaneous
 | Question                                                                                                                 | Submission                                                                                                                                              | Runtime | Rank   |
