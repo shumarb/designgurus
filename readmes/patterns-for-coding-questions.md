@@ -42,7 +42,7 @@ Submissions are organised by the training plan, with most sourced from my [LeetC
 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/MiddleOfTheLinkedList.java) | 0ms     | 100.00% |
 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/)       | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/PalindromeLinkedList.java)  | 4ms     | 66.58%  |
 
-### Sliding Windows
+### Sliding Window
 | Question                                                                                                                                                                                   | Submission                                                                                                        | Runtime | Rank   |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|---------|--------|
 | [Maximum Sum of Distinct Subarrays With Length K](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/description/)                                              | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/MaximumSumOfDistinctSubarraysWithLengthK.java)   | 7ms     | 99.33% |
@@ -192,9 +192,10 @@ Submissions are organised by the training plan, with most sourced from my [LeetC
 | [Number of Provinces](https://leetcode.com/problems/number-of-provinces/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/NumberOfProvinces.java) | 1ms     | 88.24% |
 
 ### Ordered Set
-| Question                                                                              | Submission                                                                               | Runtime | Rank    |
-|---------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|---------|---------|
-| [Merge Similar Items](https://leetcode.com/problems/merge-similar-items/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/MergeSimilarItems.java) | 2ms     | 100.00% |
+| Question                                                                                                                                                                                            | Submission                                                                                                                             | Runtime | Rank    |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|---------|---------|
+| [Merge Similar Items](https://leetcode.com/problems/merge-similar-items/description/)                                                                                                               | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/MergeSimilarItems.java)                                               | 2ms     | 100.00% |
+| [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/LongestContinuousSubarrayWithAbsoluteDiffLessThanOrEqualToLimit.java) | 78ms    | 23.76%  |
 
 ### Prefix Sum
 | Question                                                                                                    | Submission                                                                                        | Runtime | Rank   |
@@ -204,7 +205,7 @@ Submissions are organised by the training plan, with most sourced from my [LeetC
 ### Simulation Pattern
 | Question                                                                                                | Submission                                                                                      | Runtime | Rank   |
 |---------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|---------|--------|
-| [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/RemovingStarsFromAString.java) | 26ms    | 92.79%  |
+| [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/RemovingStarsFromAString.java) | 26ms    | 92.79% |
 
 ### Multi-threaded
 | Question                                                          | Submission                                                                      | Runtime | Rank    |
@@ -229,9 +230,11 @@ Submissions are organised by the training plan, with most sourced from my [LeetC
 | [Kth Smallest Number](https://www.designgurus.io/course-play/grokking-the-coding-interview/doc/kth-smallest-number-hard) | [Java](https://github.com/shumarb/designgurus/tree/main/grokking-the-coding-interview-patterns-for-coding-questions/submissions/KthSmallestNumber.java) | -       | -      |
 
 ### Test Your Knowledge
-| Question                                                                                                                                     | Submission                                                                               | Runtime | Rank   | Difficulty |
-|----------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|---------|--------|------------|
-| [Two Sum](https://leetcode.com/problems/two-sum/description/)                                                                                | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/TwoSum.java)            | 2ms     | 99.34% | Easy       |
-| [Meeting Rooms II](https://www.designgurus.io/course-play/grokking-data-structures-for-coding-interviews/doc/problem-5-sorting-a-stack-easy) | [Java](https://github.com/shumarb/designgurus/tree/main/submissions/MeetingRoomsII.java) | -       | -      | Medium     |
-| [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/description/)                                        | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/Trie.java)              | 33ms    | 85.89% | Medium     |
-| [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/description/)          | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/WordDictionary.java)    | 162ms   | 94.15% | Medium     |
+| Question                                                                                                                                     | Submission                                                                               | Runtime | Rank    | Difficulty |
+|----------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|---------|---------|------------|
+| [Design Parking System](https://leetcode.com/problems/design-parking-system/description/)                                                    | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/ParkingSystem.java)     | 7ms     | 100.00% | Easy       |
+| [Two Sum](https://leetcode.com/problems/two-sum/description/)                                                                                | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/TwoSum.java)            | 2ms     | 99.34%  | Easy       |
+| [Meeting Rooms II](https://www.designgurus.io/course-play/grokking-data-structures-for-coding-interviews/doc/problem-5-sorting-a-stack-easy) | [Java](https://github.com/shumarb/designgurus/tree/main/submissions/MeetingRoomsII.java) | -       | -       | Medium     |
+| [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/description/)          | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/WordDictionary.java)    | 162ms   | 94.15%  | Medium     |
+| [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/description/)                                        | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/Trie.java)              | 33ms    | 85.89%  | Medium     |
+| [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/)                                                          | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/DailyTemperatures.java) | 22ms    | 96.42%  | Medium     |
