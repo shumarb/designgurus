@@ -21,13 +21,17 @@ Submissions are organised by the training plan, with most sourced from my [LeetC
 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)                                                                    | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/SqrtX.java)                                                                               | 1ms     | 98.92%  |
 
 ### Two Pointers
-| Question                                                                                                              | Submission                                                                                             | Runtime | Rank    |
-|-----------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|---------|---------|
-| [Two Sum](https://leetcode.com/problems/two-sum/description/)                                                         | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/TwoSum.java)                          | 2ms     | 98.93%  |
-| [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/RemoveDuplicatesFromSortedArray.java) | 0ms     | 100.00% |
-| [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/description/)                     | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/SquaresOfASortedArray.java)           | 1ms     | 100.00% |
-| [Sort Colors](https://leetcode.com/problems/sort-colors/description/)                                                 | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/SortColors.java)                      | 0ms     | 100.00% |
-| [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/description/)                       | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/BackspaceStringCompare.java)          | 1ms     | 79.90%  |
+| Question                                                                                                                  | Submission                                                                                             | Runtime | Rank    |
+|---------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|---------|---------|
+| [Two Sum](https://leetcode.com/problems/two-sum/description/)                                                             | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/TwoSum.java)                          | 2ms     | 98.93%  |
+| [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)     | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/RemoveDuplicatesFromSortedArray.java) | 0ms     | 100.00% |
+| [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/description/)                         | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/SquaresOfASortedArray.java)           | 1ms     | 100.00% |
+| [3Sum](https://leetcode.com/problems/3sum/description/)                                                                   | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/ThreeSum.java)                        | 32ms    | 75.32%  |
+| [3Sum Closest](https://leetcode.com/problems/3sum-closest/description/)                                                   | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/ThreeSumClosest.java)                 | 75ms    | 5.16%   |
+| [3Sum Smaller](https://www.designgurus.io/course-play/grokking-the-coding-interview/doc/triplets-with-smaller-sum-medium) | [Java](https://github.com/shumarb/designgurus/tree/main/submissions/ThreeSumSmaller.java)              | -       | -       |
+| [Sort Colors](https://leetcode.com/problems/sort-colors/description/)                                                     | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/SortColors.java)                      | 0ms     | 100.00% |
+| [4Sum](https://leetcode.com/problems/4sum/description/)                                                                   | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/FourSum.java)                         | 15ms    | 94.01%  |
+| [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/description/)                           | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/BackspaceStringCompare.java)          | 1ms     | 79.90%  |
 
 ### Merge Intervals
 | Question                                                                      | Submission                                                                            | Runtime | Rank   |
@@ -72,7 +76,7 @@ Submissions are organised by the training plan, with most sourced from my [LeetC
 | Question                                                                                                                        | Submission                                                                                                 | Runtime | Rank   |
 |---------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|---------|--------|
 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/description/)                                     | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/NextGreaterElementI.java)                 | 3ms     | 92.81% |
-| [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/)                                             | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/DailyTemperatures.java)                   | 77ms    | 24.69% |
+| [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/)                                             | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/DailyTemperatures.java)                   | 22ms    | 96.42% |
 | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/RemoveAllAdjacentDuplicatesInString.java) | 11ms    | 89.28% |
 
 ### HashMaps
@@ -201,6 +205,7 @@ Submissions are organised by the training plan, with most sourced from my [LeetC
 | Question                                                                                                    | Submission                                                                                        | Runtime | Rank   |
 |-------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|---------|--------|
 | [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/LeftAndRightSumDifferences.java) | 2ms     | 99.10% |
+| [Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/description/)           | [Java](https://github.com/shumarb/leetcode/blob/main/submissions/BinarySubarraysWithSum.java)     | 1ms     | 99.97% |
 
 ### Simulation Pattern
 | Question                                                                                                | Submission                                                                                      | Runtime | Rank   |
